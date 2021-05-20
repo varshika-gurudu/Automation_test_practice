@@ -1,1 +1,258 @@
-2021-05-18 22:16:49,458 - root - INFO - hey I am working
+    2021-05-18 22:16:49,458 - root - INFO - hey I am working
+2021-05-18 22:41:09,098 - root - INFO - hey I am working
+2021-05-18 22:42:50,774 - root - INFO - hey I am working
+2021-05-18 22:43:16,129 - root - INFO - hey I am working
+2021-05-18 22:44:14,689 - root - INFO - hey I am working
+2021-05-18 22:57:21,494 - root - INFO - hey I am working
+2021-05-18 22:59:35,862 - root - INFO - hey I am working
+2021-05-18 22:59:43,661 - root - INFO - hey my title is right
+2021-05-19 11:59:33,952 - root - INFO - hey I am working
+2021-05-19 11:59:41,836 - root - INFO - hey my title is right
+2021-05-19 12:02:04,288 - root - INFO - hey I am working
+2021-05-19 12:02:11,827 - root - INFO - hey my title is right
+2021-05-19 12:03:46,346 - root - INFO - hey I am working
+2021-05-19 12:03:53,371 - root - INFO - hey my title is right
+2021-05-19 12:20:05,134 - root - INFO - hey I am working
+2021-05-19 12:20:12,039 - root - INFO - hey my title is right
+2021-05-19 15:31:28,679 - root - INFO - ******* Test Title ***********
+2021-05-19 15:31:28,680 - root - INFO - ******** Launching browser *********
+2021-05-19 15:31:32,167 - root - INFO - ******** opening application url *********
+2021-05-19 15:31:37,331 - root - INFO - ******** It is original title *********
+2021-05-19 15:38:27,621 - root - INFO - ******* Test Title ***********
+2021-05-19 15:38:27,621 - root - INFO - ******** Launching browser *********
+2021-05-19 15:38:31,990 - root - INFO - ******** opening application url *********
+2021-05-19 15:38:37,125 - root - INFO - ******** It is original title *********
+2021-05-19 15:49:16,597 - root - INFO - ******* Test Title ***********
+2021-05-19 15:49:16,600 - root - INFO - ******** Launching browser *********
+2021-05-19 15:49:20,734 - root - INFO - ******** opening application url *********
+2021-05-19 15:49:25,750 - root - INFO - ******** It is original title *********
+2021-05-19 15:50:22,366 - root - INFO - ******* Test Title ***********
+2021-05-19 15:50:22,367 - root - INFO - ******** Launching browser *********
+2021-05-19 15:50:26,617 - root - INFO - ******** opening application url *********
+2021-05-19 15:50:31,623 - root - INFO - ******** It is original title *********
+2021-05-19 15:51:14,253 - root - INFO - ******* Test Title ***********
+2021-05-19 15:51:14,253 - root - INFO - ******** Launching browser *********
+2021-05-19 15:51:18,189 - root - INFO - ******** opening application url *********
+2021-05-19 15:53:44,275 - root - INFO - ******* Test Title ***********
+2021-05-19 15:53:44,275 - root - INFO - ******** Launching browser *********
+2021-05-19 15:53:46,442 - root - INFO - ******** opening application url *********
+2021-05-19 15:54:45,416 - root - INFO - ******* Test Title ***********
+2021-05-19 15:54:45,417 - root - INFO - ******** Launching browser *********
+2021-05-19 15:54:49,618 - root - INFO - ******** opening application url *********
+2021-05-19 15:57:11,912 - root - INFO - ******* Test Title ***********
+2021-05-19 15:57:11,913 - root - INFO - ******** Launching browser *********
+2021-05-19 15:57:14,225 - root - INFO - ******** opening application url *********
+2021-05-19 16:00:04,577 - root - INFO - ******* Test Title ***********
+2021-05-19 16:00:04,577 - root - INFO - ******** Launching browser *********
+2021-05-19 16:00:06,419 - root - INFO - ******** opening application url *********
+2021-05-19 16:00:08,749 - root - INFO - ******** It is original title *********
+2021-05-19 16:09:09,085 - root - INFO - ******* Test Title ***********
+2021-05-19 16:09:09,086 - root - INFO - ******** Launching browser *********
+2021-05-19 16:09:10,717 - root - INFO - ******** opening application url *********
+2021-05-19 16:09:12,998 - root - INFO - ******** It is original title *********
+2021-05-19 16:09:28,348 - root - INFO - ******* Test Title ***********
+2021-05-19 16:09:28,348 - root - INFO - ******** Launching browser *********
+2021-05-19 16:09:30,006 - root - INFO - ******** opening application url *********
+2021-05-19 16:09:32,287 - root - INFO - ******** It is original title *********
+2021-05-19 17:31:01,390 - root - INFO - ******* Test Title ***********
+2021-05-19 17:31:01,391 - root - INFO - ******** Launching browser *********
+2021-05-19 17:31:03,389 - root - INFO - ******** opening application url *********
+2021-05-19 17:31:05,655 - root - INFO - ******** It is original title *********
+2021-05-19 17:32:53,522 - root - INFO - ******* Test Title ***********
+2021-05-19 17:32:53,522 - root - INFO - ******** Launching browser *********
+2021-05-19 17:32:57,554 - root - INFO - ******** opening application url *********
+2021-05-19 17:32:59,808 - root - INFO - ******** It is original title *********
+2021-05-19 17:33:01,215 - root - INFO - *********testing NameField ************
+2021-05-19 17:48:52,904 - root - INFO - ******* Test Title ***********
+2021-05-19 17:48:52,905 - root - INFO - ******** Launching browser *********
+2021-05-19 17:48:56,469 - root - INFO - ******** opening application url *********
+2021-05-19 17:48:58,867 - root - INFO - ******** It is original title *********
+2021-05-19 17:49:00,409 - root - INFO - *********testing NameField ************
+2021-05-19 17:51:33,091 - root - INFO - ******* Test Title ***********
+2021-05-19 17:51:33,092 - root - INFO - ******** Launching browser *********
+2021-05-19 17:51:36,354 - root - INFO - ******** opening application url *********
+2021-05-19 17:51:38,636 - root - INFO - ******** It is original title *********
+2021-05-19 17:51:40,657 - root - INFO - *********testing NameField ************
+2021-05-19 21:32:15,548 - root - INFO - *********testing NameField ************
+2021-05-19 21:39:16,373 - root - INFO - *********testing NameField ************
+2021-05-19 21:41:38,906 - root - INFO - *********testing NameField ************
+2021-05-19 21:44:52,209 - root - INFO - *********testing NameField ************
+2021-05-19 21:46:28,782 - root - INFO - *********testing NameField ************
+2021-05-19 21:46:34,336 - root - INFO - *********Finished NameField ************
+2021-05-19 21:47:09,313 - root - INFO - *********testing NameField ************
+2021-05-19 21:48:13,510 - root - INFO - *********testing NameField ************
+2021-05-19 21:51:55,964 - root - INFO - *********testing NameField ************
+2021-05-19 21:52:43,678 - root - INFO - *********testing NameField ************
+2021-05-19 21:54:46,824 - root - INFO - *********testing NameField ************
+2021-05-19 21:56:54,579 - root - INFO - *********testing NameField ************
+2021-05-19 21:57:27,523 - root - INFO - *********testing NameField ************
+2021-05-19 22:01:05,470 - root - INFO - *********testing NameField ************
+2021-05-19 22:02:29,351 - root - INFO - *********testing NameField ************
+2021-05-19 22:02:54,908 - root - INFO - *********testing NameField ************
+2021-05-19 22:03:30,931 - root - INFO - *********testing NameField ************
+2021-05-19 22:04:55,772 - root - INFO - *********testing NameField ************
+2021-05-19 22:05:53,171 - root - INFO - *********testing NameField ************
+2021-05-19 22:06:43,282 - root - INFO - *********testing NameField ************
+2021-05-19 22:07:07,637 - root - INFO - *********testing NameField ************
+2021-05-19 22:18:18,334 - root - INFO - *********testing NameField ************
+2021-05-19 22:20:01,128 - root - INFO - *********testing NameField ************
+2021-05-19 22:22:20,035 - root - INFO - *********testing NameField ************
+2021-05-19 22:22:26,696 - root - INFO - *********Finished NameField ************
+2021-05-19 22:24:26,714 - root - INFO - *********testing NameField ************
+2021-05-19 22:25:44,738 - root - INFO - *********testing NameField ************
+2021-05-19 22:30:21,508 - root - INFO - *********testing NameField ************
+2021-05-19 22:31:18,480 - root - INFO - *********testing NameField ************
+2021-05-19 22:34:05,652 - root - INFO - *********testing NameField ************
+2021-05-19 22:34:41,553 - root - INFO - *********testing NameField ************
+2021-05-19 22:41:57,016 - root - INFO - *********testing NameField ************
+2021-05-19 22:44:15,879 - root - INFO - *********testing NameField ************
+2021-05-19 22:44:47,567 - root - INFO - *********testing NameField ************
+2021-05-19 22:45:07,866 - root - INFO - *********testing NameField ************
+2021-05-19 22:48:58,340 - root - INFO - *********testing NameField ************
+2021-05-19 22:51:01,657 - root - INFO - *********testing NameField ************
+2021-05-19 22:52:40,448 - root - INFO - *********testing NameField ************
+2021-05-19 22:53:31,946 - root - INFO - *********testing NameField ************
+2021-05-19 23:02:27,835 - root - INFO - *********testing NameField ************
+2021-05-19 23:02:46,229 - root - INFO - *********Finished NameField ************
+2021-05-19 23:05:19,148 - root - INFO - *********testing NameField ************
+2021-05-19 23:05:25,930 - root - INFO - *********Finished NameField ************
+2021-05-19 23:05:59,772 - root - INFO - *********testing NameField ************
+2021-05-19 23:07:39,800 - root - INFO - *********testing NameField ************
+2021-05-19 23:10:05,066 - root - INFO - *********testing NameField ************
+2021-05-19 23:17:50,004 - root - INFO - *********testing NameField ************
+2021-05-19 23:18:24,846 - root - INFO - *********testing NameField ************
+2021-05-19 23:20:05,364 - root - INFO - *********testing NameField ************
+2021-05-19 23:20:12,627 - root - INFO - *********Finished NameField ************
+2021-05-19 23:20:55,376 - root - INFO - *********testing NameField ************
+2021-05-19 23:22:26,682 - root - INFO - *********testing NameField ************
+2021-05-19 23:22:34,597 - root - INFO - *********Finished NameField ************
+2021-05-19 23:26:41,075 - root - INFO - *********testing NameField ************
+2021-05-19 23:27:03,579 - root - INFO - *********testing NameField ************
+2021-05-19 23:27:11,610 - root - INFO - *********Finished NameField ************
+2021-05-20 14:02:22,810 - root - INFO - *********testing NameField ************
+2021-05-20 14:02:29,578 - root - INFO - *********Finished NameField ************
+2021-05-20 14:03:37,753 - root - INFO - *********testing NameField ************
+2021-05-20 14:03:44,342 - root - INFO - *********Finished NameField ************
+2021-05-20 14:04:09,366 - root - INFO - *********testing NameField ************
+2021-05-20 14:04:16,118 - root - INFO - *********Finished NameField ************
+2021-05-20 14:06:54,154 - root - INFO - *********testing NameField ************
+2021-05-20 14:08:04,330 - root - INFO - *********testing NameField ************
+2021-05-20 14:13:31,789 - root - INFO - *********testing NameField ************
+2021-05-20 14:14:04,042 - root - INFO - *********Finished NameField ************
+2021-05-20 14:14:18,457 - root - INFO - *********testing NameField ************
+2021-05-20 14:14:36,004 - root - INFO - *********Finished NameField ************
+2021-05-20 14:15:44,089 - root - INFO - *********testing NameField ************
+2021-05-20 14:16:01,523 - root - INFO - *********Finished NameField ************
+2021-05-20 14:26:12,075 - root - INFO - *********testing NameField ************
+2021-05-20 14:30:31,934 - root - INFO - *********testing NameField ************
+2021-05-20 14:31:36,786 - root - INFO - *********testing NameField ************
+2021-05-20 14:31:41,201 - root - INFO - ******First Name is displayed,enabled,selected **********
+2021-05-20 14:31:52,565 - root - INFO - *********Finished NameField ************
+2021-05-20 16:36:39,279 - root - INFO - *********testing NameField ************
+2021-05-20 16:37:39,002 - root - INFO - *********testing NameField ************
+2021-05-20 16:39:15,346 - root - INFO - *********testing NameField ************
+2021-05-20 16:39:18,885 - root - INFO - ******First Name is displayed,enabled,selected **********
+2021-05-20 16:39:27,191 - root - INFO - *********Finished NameField ************
+2021-05-20 16:41:20,726 - root - INFO - *********testing NameField ************
+2021-05-20 16:41:24,559 - root - INFO - ******First Name is displayed,enabled,selected **********
+2021-05-20 16:42:53,430 - root - INFO - *********testing NameField ************
+2021-05-20 16:42:57,165 - root - INFO - ******First Name is displayed,enabled,selected **********
+2021-05-20 16:43:05,469 - root - INFO - *********Finished NameField ************
+2021-05-20 16:44:47,129 - root - INFO - *********testing NameField ************
+2021-05-20 16:44:50,869 - root - INFO - ******First Name is displayed,enabled,selected **********
+2021-05-20 16:45:04,301 - root - INFO - *********Finished NameField ************
+2021-05-20 16:51:56,643 - root - INFO - *********testing NameField ************
+2021-05-20 16:52:00,317 - root - INFO - ******First Name is displayed,enabled,selected **********
+2021-05-20 16:52:14,017 - root - INFO - *********Finished NameField ************
+2021-05-20 16:53:29,015 - root - INFO - *********testing NameField ************
+2021-05-20 16:53:33,317 - root - INFO - ******First Name is displayed,enabled,selected **********
+2021-05-20 16:53:46,838 - root - INFO - *********Finished NameField ************
+2021-05-20 17:07:33,826 - root - INFO - *********testing NameField ************
+2021-05-20 17:07:43,458 - root - INFO - ******First Name is displayed,enabled,selected **********
+2021-05-20 17:07:57,082 - root - INFO - *********Finished NameField ************
+2021-05-20 17:29:00,367 - root - INFO - *********testing NameField ************
+2021-05-20 17:30:06,258 - root - INFO - *********testing NameField ************
+2021-05-20 17:30:09,578 - root - INFO - ******** checking if the FirstName is blank ************
+2021-05-20 17:30:09,578 - root - INFO - ******** FirstName is blank success************
+2021-05-20 17:30:09,689 - root - INFO - ******First Name is displayed,enabled,selected **********
+2021-05-20 17:30:23,115 - root - INFO - *********Finished NameField ************
+2021-05-20 20:29:23,950 - root - INFO - *********testing NameField ************
+2021-05-20 20:29:53,192 - root - INFO - *********testing NameField ************
+2021-05-20 20:29:57,981 - root - INFO - ******** checking if the FirstName is blank ************
+2021-05-20 20:29:57,981 - root - INFO - ******** FirstName is blank success************
+2021-05-20 20:29:58,099 - root - INFO - ******First Name is displayed,enabled,selected **********
+2021-05-20 20:33:36,266 - root - INFO - *********testing NameField ************
+2021-05-20 20:33:40,287 - root - INFO - ******** checking if the FirstName is blank ************
+2021-05-20 20:33:40,288 - root - INFO - ******** FirstName is blank success************
+2021-05-20 20:33:40,470 - root - INFO - ******First Name is displayed,enabled,selected **********
+2021-05-20 20:42:51,297 - root - INFO - *********testing NameField ************
+2021-05-20 20:42:55,499 - root - INFO - ******** checking if the FirstName is blank ************
+2021-05-20 20:42:55,499 - root - INFO - ******** FirstName is blank success************
+2021-05-20 20:42:55,627 - root - INFO - ******First Name is displayed,enabled,selected **********
+2021-05-20 20:43:59,029 - root - INFO - *********testing NameField ************
+2021-05-20 20:44:02,846 - root - INFO - ******** checking if the FirstName is blank ************
+2021-05-20 20:44:02,846 - root - INFO - ******** FirstName is blank success************
+2021-05-20 20:44:03,033 - root - INFO - ******First Name is displayed,enabled,selected **********
+2021-05-20 20:45:29,330 - root - INFO - *********testing NameField ************
+2021-05-20 20:45:32,806 - root - INFO - ******** checking if the FirstName is blank ************
+2021-05-20 20:45:32,806 - root - INFO - ******** FirstName is blank success************
+2021-05-20 20:45:32,925 - root - INFO - ******First Name is displayed,enabled,selected **********
+2021-05-20 20:46:02,992 - root - INFO - *********testing NameField ************
+2021-05-20 20:46:07,454 - root - INFO - ******** checking if the FirstName is blank ************
+2021-05-20 20:46:07,455 - root - INFO - ******** FirstName is blank success************
+2021-05-20 20:46:07,727 - root - INFO - ******First Name is displayed,enabled,selected **********
+2021-05-20 20:46:21,446 - root - INFO - *********Finished NameField ************
+2021-05-20 20:49:13,007 - root - INFO - *********testing NameField ************
+2021-05-20 20:49:17,175 - root - INFO - ******** checking if the FirstName is blank ************
+2021-05-20 20:49:17,175 - root - INFO - ******** FirstName is blank success************
+2021-05-20 20:49:17,278 - root - INFO - ******First Name is displayed,enabled,selected **********
+2021-05-20 20:49:30,700 - root - INFO - *********Finished NameField ************
+2021-05-20 20:50:33,555 - root - INFO - *********testing NameField ************
+2021-05-20 20:50:37,537 - root - INFO - ******** checking if the FirstName is blank ************
+2021-05-20 20:50:37,537 - root - INFO - ******** FirstName is blank success************
+2021-05-20 20:50:37,684 - root - INFO - ******First Name is displayed,enabled,selected **********
+2021-05-20 20:50:52,268 - root - INFO - *********Finished NameField ************
+2021-05-20 20:51:41,412 - root - INFO - *********testing NameField ************
+2021-05-20 20:51:45,149 - root - INFO - ******** checking if the FirstName is blank ************
+2021-05-20 20:51:45,149 - root - INFO - ******** FirstName is blank success************
+2021-05-20 20:51:45,272 - root - INFO - ******First Name is displayed,enabled,selected **********
+2021-05-20 20:51:58,790 - root - INFO - *********Finished NameField ************
+2021-05-20 20:58:02,170 - root - INFO - *********testing NameField ************
+2021-05-20 20:59:14,408 - root - INFO - *********testing NameField ************
+2021-05-20 20:59:18,895 - root - INFO - ******** checking if the FirstName is blank ************
+2021-05-20 20:59:18,895 - root - INFO - ******** FirstName is blank success************
+2021-05-20 20:59:19,053 - root - INFO - ******First Name is displayed,enabled,selected **********
+2021-05-20 21:01:03,487 - root - INFO - *********testing NameField ************
+2021-05-20 21:01:08,096 - root - INFO - ******** checking if the FirstName is blank ************
+2021-05-20 21:01:08,096 - root - INFO - ******** FirstName is blank success************
+2021-05-20 21:01:08,220 - root - INFO - ******First Name is displayed,enabled,selected **********
+2021-05-20 21:01:21,684 - root - INFO - *********Finished NameField ************
+2021-05-20 21:01:46,836 - root - INFO - *********testing NameField ************
+2021-05-20 21:01:51,405 - root - INFO - ******** checking if the FirstName is blank ************
+2021-05-20 21:01:51,406 - root - INFO - ******** FirstName is blank success************
+2021-05-20 21:01:51,576 - root - INFO - ******First Name is displayed,enabled,selected **********
+2021-05-20 21:02:07,171 - root - INFO - *********Finished NameField ************
+2021-05-20 21:03:52,513 - root - INFO - *********testing NameField ************
+2021-05-20 21:03:56,444 - root - INFO - ******** checking if the FirstName is blank ************
+2021-05-20 21:03:56,444 - root - INFO - ******** FirstName is blank success************
+2021-05-20 21:03:56,608 - root - INFO - ******First Name is displayed,enabled,selected **********
+2021-05-20 21:03:57,022 - root - INFO - *********Finished NameField ************
+2021-05-20 21:04:30,123 - root - INFO - *********testing NameField ************
+2021-05-20 21:04:34,906 - root - INFO - ******** checking if the FirstName is blank ************
+2021-05-20 21:04:34,907 - root - INFO - ******** FirstName is blank success************
+2021-05-20 21:04:35,176 - root - INFO - ******First Name is displayed,enabled,selected **********
+2021-05-20 21:04:35,610 - root - INFO - *********Finished NameField ************
+2021-05-20 21:06:41,215 - root - INFO - *********testing NameField ************
+2021-05-20 21:06:46,445 - root - INFO - ******** checking if the FirstName is blank ************
+2021-05-20 21:06:46,445 - root - INFO - ******** FirstName is blank success************
+2021-05-20 21:06:46,565 - root - INFO - ******First Name is displayed,enabled,selected **********
+2021-05-20 21:06:46,908 - root - INFO - *********Finished NameField ************
+2021-05-20 21:15:55,728 - root - INFO - *********testing NameField ************
+2021-05-20 21:15:59,423 - root - INFO - ******** checking if the FirstName is blank ************
+2021-05-20 21:15:59,423 - root - INFO - ******** FirstName is blank success************
+2021-05-20 21:15:59,542 - root - INFO - ******First Name is displayed,enabled,selected **********
+2021-05-20 21:16:13,725 - root - INFO - *********testing NameField ************
+2021-05-20 21:16:17,616 - root - INFO - ******** checking if the FirstName is blank ************
+2021-05-20 21:16:17,617 - root - INFO - ******** FirstName is blank success************
+2021-05-20 21:16:17,823 - root - INFO - ******First Name is displayed,enabled,selected **********
+2021-05-20 21:16:18,260 - root - INFO - *********Finished NameField ************
