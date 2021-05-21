@@ -20,9 +20,4 @@ class check_char:
 
 
 
-        '''for i in name:
-            if i.isdigit():
-
-                print('it has numbers')
-            else:
-                print('it is perfect')'''
+    
