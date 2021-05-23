@@ -1,6 +1,9 @@
 import pytest
 from selenium import webdriver
 import string
+from PageObjects.NameObject import sign_up
+
+
 
 
 @pytest.fixture()
@@ -8,10 +11,6 @@ def setup():
     driver = webdriver.Chrome('C:/Users/varsh/Desktop/TheFirstOne/chromedriver_win32/chromedriver.exe')
     print('Launching chrome browser')
     return driver
-
-
-
-
 
 
 

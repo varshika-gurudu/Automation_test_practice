@@ -319,3 +319,1008 @@
 2021-05-21 01:49:33,059 - root - INFO - ******** checking if the characters contains numeric values************
 2021-05-21 01:49:33,061 - root - INFO - ******** First name Field is success************
 2021-05-21 01:49:33,101 - root - INFO - *********Finished First name Field ************
+2021-05-21 15:00:11,767 - root - INFO - *********testing First name Field ************
+2021-05-21 15:00:14,087 - root - INFO - *********getting application URL Success ************
+2021-05-21 15:00:14,144 - root - INFO - ********* setting up cookie is Success ************
+2021-05-21 15:00:17,178 - root - INFO - ********* switching to iframe is Success ************
+2021-05-21 15:00:17,179 - root - INFO - ********* Finding First name Element  ************
+2021-05-21 15:00:17,243 - root - INFO - ********* First name display,enable,selection is success ************
+2021-05-21 15:00:17,244 - root - INFO - ********* checking if the field is blank ************
+2021-05-21 15:00:17,251 - root - INFO - ********* First name field is blank ************
+2021-05-21 15:00:17,251 - root - INFO - ******** checking if the Firstname field is clickable ************
+2021-05-21 15:00:17,355 - root - INFO - ******** FirstName field clickable success************
+2021-05-21 15:00:17,356 - root - INFO - ******** checking if FirstName field is accepting input ************
+2021-05-21 15:00:17,410 - root - INFO - ******** sending keys to First name Field ************
+2021-05-21 15:00:22,785 - root - INFO - ******** sending keys to First name Field is success************
+2021-05-21 15:00:22,785 - root - INFO - ******** checking if the characters have any special characters ************
+2021-05-21 15:00:22,785 - root - INFO - ******** checking if the characters contains numeric values************
+2021-05-21 15:00:22,786 - root - INFO - ******** First name Field is success************
+2021-05-21 15:00:22,809 - root - INFO - *********Finished First name Field ************
+2021-05-21 17:52:59,692 - root - INFO - ********* Testing phone Field ***********
+2021-05-21 17:53:01,551 - root - INFO - *********** Launching browser ***********
+2021-05-21 17:53:01,551 - root - INFO - *********** Launching browser ***********
+2021-05-21 17:53:04,419 - root - INFO - *********** opening application URL ***********
+2021-05-21 17:53:04,419 - root - INFO - *********** opening application URL ***********
+2021-05-21 17:53:06,667 - root - INFO - ********* setting up cookie is Success ************
+2021-05-21 17:53:06,667 - root - INFO - ********* setting up cookie is Success ************
+2021-05-21 17:55:40,097 - root - INFO - ********* Testing phone Field ***********
+2021-05-21 17:55:41,740 - root - INFO - *********** Launching browser ***********
+2021-05-21 17:55:41,740 - root - INFO - *********** Launching browser ***********
+2021-05-21 17:55:44,470 - root - INFO - *********** opening application URL ***********
+2021-05-21 17:55:44,470 - root - INFO - *********** opening application URL ***********
+2021-05-21 17:55:46,561 - root - INFO - ********* setting up cookie is Success ************
+2021-05-21 17:55:46,561 - root - INFO - ********* setting up cookie is Success ************
+2021-05-21 17:55:49,573 - root - INFO - ********* Finding the phone field element  ************
+2021-05-21 17:55:49,573 - root - INFO - ********* Finding the phone field element  ************
+2021-05-21 17:56:34,497 - root - INFO - ********* Testing phone Field ***********
+2021-05-21 17:56:36,367 - root - INFO - *********** Launching browser ***********
+2021-05-21 17:56:36,367 - root - INFO - *********** Launching browser ***********
+2021-05-21 17:56:38,934 - root - INFO - *********** opening application URL ***********
+2021-05-21 17:56:38,934 - root - INFO - *********** opening application URL ***********
+2021-05-21 17:56:41,018 - root - INFO - ********* setting up cookie is Success ************
+2021-05-21 17:56:41,018 - root - INFO - ********* setting up cookie is Success ************
+2021-05-21 17:56:44,022 - root - INFO - ********* Finding the phone field element  ************
+2021-05-21 17:56:44,022 - root - INFO - ********* Finding the phone field element  ************
+2021-05-21 17:57:54,004 - root - INFO - ********* Testing phone Field ***********
+2021-05-21 17:57:55,595 - root - INFO - *********** Launching browser ***********
+2021-05-21 17:57:55,595 - root - INFO - *********** Launching browser ***********
+2021-05-21 17:57:59,432 - root - INFO - *********** opening application URL ***********
+2021-05-21 17:57:59,432 - root - INFO - *********** opening application URL ***********
+2021-05-21 17:58:01,599 - root - INFO - ********* setting up cookie is Success ************
+2021-05-21 17:58:01,599 - root - INFO - ********* setting up cookie is Success ************
+2021-05-21 17:58:04,644 - root - INFO - ********* switching to iframe is Success ************
+2021-05-21 17:58:04,644 - root - INFO - ********* switching to iframe is Success ************
+2021-05-21 17:58:04,645 - root - INFO - ********* Finding the phone field element  ************
+2021-05-21 17:58:04,645 - root - INFO - ********* Finding the phone field element  ************
+2021-05-21 18:07:23,079 - root - INFO - ********* Testing phone Field ***********
+2021-05-21 18:07:24,822 - root - INFO - *********** Launching browser ***********
+2021-05-21 18:07:24,822 - root - INFO - *********** Launching browser ***********
+2021-05-21 18:07:27,694 - root - INFO - *********** opening application URL ***********
+2021-05-21 18:07:27,694 - root - INFO - *********** opening application URL ***********
+2021-05-21 18:07:29,886 - root - INFO - ********* setting up cookie is Success ************
+2021-05-21 18:07:29,886 - root - INFO - ********* setting up cookie is Success ************
+2021-05-21 18:07:32,985 - root - INFO - ********* switching to iframe is Success ************
+2021-05-21 18:07:32,985 - root - INFO - ********* switching to iframe is Success ************
+2021-05-21 18:07:32,985 - root - INFO - ********* Finding the phone field element  ************
+2021-05-21 18:07:32,985 - root - INFO - ********* Finding the phone field element  ************
+2021-05-21 18:07:38,018 - root - INFO - ********** testing if the phone field is blank **********
+2021-05-21 18:07:38,018 - root - INFO - ********** testing if the phone field is blank **********
+2021-05-21 18:08:44,522 - root - INFO - ********* Testing phone Field ***********
+2021-05-21 18:08:46,503 - root - INFO - *********** Launching browser ***********
+2021-05-21 18:08:46,503 - root - INFO - *********** Launching browser ***********
+2021-05-21 18:08:49,827 - root - INFO - *********** opening application URL ***********
+2021-05-21 18:08:49,827 - root - INFO - *********** opening application URL ***********
+2021-05-21 18:08:51,937 - root - INFO - ********* setting up cookie is Success ************
+2021-05-21 18:08:51,937 - root - INFO - ********* setting up cookie is Success ************
+2021-05-21 18:08:54,996 - root - INFO - ********* switching to iframe is Success ************
+2021-05-21 18:08:54,996 - root - INFO - ********* switching to iframe is Success ************
+2021-05-21 18:08:54,996 - root - INFO - ********* Finding the phone field element  ************
+2021-05-21 18:08:54,996 - root - INFO - ********* Finding the phone field element  ************
+2021-05-21 18:09:00,071 - root - INFO - ********** testing if the phone field is blank **********
+2021-05-21 18:09:00,071 - root - INFO - ********** testing if the phone field is blank **********
+2021-05-21 18:09:00,092 - root - INFO - ********** phone field is blank success **********
+2021-05-21 18:09:00,092 - root - INFO - ********** phone field is blank success **********
+2021-05-21 18:09:39,888 - root - INFO - ********* Testing phone Field ***********
+2021-05-21 18:09:41,652 - root - INFO - *********** Launching browser ***********
+2021-05-21 18:09:41,652 - root - INFO - *********** Launching browser ***********
+2021-05-21 18:09:44,155 - root - INFO - *********** opening application URL ***********
+2021-05-21 18:09:44,155 - root - INFO - *********** opening application URL ***********
+2021-05-21 18:09:46,321 - root - INFO - ********* setting up cookie is Success ************
+2021-05-21 18:09:46,321 - root - INFO - ********* setting up cookie is Success ************
+2021-05-21 18:09:49,384 - root - INFO - ********* switching to iframe is Success ************
+2021-05-21 18:09:49,384 - root - INFO - ********* switching to iframe is Success ************
+2021-05-21 18:09:49,385 - root - INFO - ********* Finding the phone field element  ************
+2021-05-21 18:09:49,385 - root - INFO - ********* Finding the phone field element  ************
+2021-05-21 18:09:54,408 - root - INFO - ********** testing if the phone field is blank **********
+2021-05-21 18:09:54,408 - root - INFO - ********** testing if the phone field is blank **********
+2021-05-21 18:09:54,416 - root - INFO - ********** phone field is blank success **********
+2021-05-21 18:09:54,416 - root - INFO - ********** phone field is blank success **********
+2021-05-21 18:10:45,298 - root - INFO - ********* Testing phone Field ***********
+2021-05-21 18:10:47,077 - root - INFO - *********** Launching browser ***********
+2021-05-21 18:10:47,077 - root - INFO - *********** Launching browser ***********
+2021-05-21 18:10:51,144 - root - INFO - *********** opening application URL ***********
+2021-05-21 18:10:51,144 - root - INFO - *********** opening application URL ***********
+2021-05-21 18:10:53,241 - root - INFO - ********* setting up cookie is Success ************
+2021-05-21 18:10:53,241 - root - INFO - ********* setting up cookie is Success ************
+2021-05-21 18:10:56,302 - root - INFO - ********* switching to iframe is Success ************
+2021-05-21 18:10:56,302 - root - INFO - ********* switching to iframe is Success ************
+2021-05-21 18:10:56,302 - root - INFO - ********* Finding the phone field element  ************
+2021-05-21 18:10:56,302 - root - INFO - ********* Finding the phone field element  ************
+2021-05-21 18:11:01,351 - root - INFO - ********** testing if the phone field is blank **********
+2021-05-21 18:11:01,351 - root - INFO - ********** testing if the phone field is blank **********
+2021-05-21 18:11:01,371 - root - INFO - ********** phone field is blank success **********
+2021-05-21 18:11:01,371 - root - INFO - ********** phone field is blank success **********
+2021-05-21 18:12:02,079 - root - INFO - ********* Testing phone Field ***********
+2021-05-21 18:12:03,857 - root - INFO - *********** Launching browser ***********
+2021-05-21 18:12:03,857 - root - INFO - *********** Launching browser ***********
+2021-05-21 18:12:07,225 - root - INFO - *********** opening application URL ***********
+2021-05-21 18:12:07,225 - root - INFO - *********** opening application URL ***********
+2021-05-21 18:12:09,323 - root - INFO - ********* setting up cookie is Success ************
+2021-05-21 18:12:09,323 - root - INFO - ********* setting up cookie is Success ************
+2021-05-21 18:12:12,406 - root - INFO - ********* switching to iframe is Success ************
+2021-05-21 18:12:12,406 - root - INFO - ********* switching to iframe is Success ************
+2021-05-21 18:12:12,406 - root - INFO - ********* Finding the phone field element  ************
+2021-05-21 18:12:12,406 - root - INFO - ********* Finding the phone field element  ************
+2021-05-21 18:12:17,445 - root - INFO - ********** testing if the phone field is blank **********
+2021-05-21 18:12:17,445 - root - INFO - ********** testing if the phone field is blank **********
+2021-05-21 18:12:17,455 - root - INFO - ********** phone field is blank success **********
+2021-05-21 18:12:17,455 - root - INFO - ********** phone field is blank success **********
+2021-05-21 18:12:44,381 - root - INFO - ********* Testing phone Field ***********
+2021-05-21 18:12:46,332 - root - INFO - *********** Launching browser ***********
+2021-05-21 18:12:46,332 - root - INFO - *********** Launching browser ***********
+2021-05-21 18:12:49,753 - root - INFO - *********** opening application URL ***********
+2021-05-21 18:12:49,753 - root - INFO - *********** opening application URL ***********
+2021-05-21 18:12:52,079 - root - INFO - ********* setting up cookie is Success ************
+2021-05-21 18:12:52,079 - root - INFO - ********* setting up cookie is Success ************
+2021-05-21 18:12:55,155 - root - INFO - ********* switching to iframe is Success ************
+2021-05-21 18:12:55,155 - root - INFO - ********* switching to iframe is Success ************
+2021-05-21 18:12:55,155 - root - INFO - ********* Finding the phone field element  ************
+2021-05-21 18:12:55,155 - root - INFO - ********* Finding the phone field element  ************
+2021-05-21 18:13:00,180 - root - INFO - ********** testing if the phone field is blank **********
+2021-05-21 18:13:00,180 - root - INFO - ********** testing if the phone field is blank **********
+2021-05-21 18:13:00,190 - root - INFO - ********** phone field is blank success **********
+2021-05-21 18:13:00,190 - root - INFO - ********** phone field is blank success **********
+2021-05-21 18:13:24,879 - root - INFO - ********* Testing phone Field ***********
+2021-05-21 18:13:26,741 - root - INFO - *********** Launching browser ***********
+2021-05-21 18:13:26,741 - root - INFO - *********** Launching browser ***********
+2021-05-21 18:13:29,614 - root - INFO - *********** opening application URL ***********
+2021-05-21 18:13:29,614 - root - INFO - *********** opening application URL ***********
+2021-05-21 18:13:31,778 - root - INFO - ********* setting up cookie is Success ************
+2021-05-21 18:13:31,778 - root - INFO - ********* setting up cookie is Success ************
+2021-05-21 18:13:34,888 - root - INFO - ********* switching to iframe is Success ************
+2021-05-21 18:13:34,888 - root - INFO - ********* switching to iframe is Success ************
+2021-05-21 18:13:34,888 - root - INFO - ********* Finding the phone field element  ************
+2021-05-21 18:13:34,888 - root - INFO - ********* Finding the phone field element  ************
+2021-05-21 18:13:39,924 - root - INFO - ********** testing if the phone field is blank **********
+2021-05-21 18:13:39,924 - root - INFO - ********** testing if the phone field is blank **********
+2021-05-21 18:13:39,937 - root - INFO - ********** phone field is blank success **********
+2021-05-21 18:13:39,937 - root - INFO - ********** phone field is blank success **********
+2021-05-21 18:23:13,597 - root - INFO - ********* Testing phone Field ***********
+2021-05-21 18:23:15,465 - root - INFO - *********** Launching browser ***********
+2021-05-21 18:23:15,465 - root - INFO - *********** Launching browser ***********
+2021-05-21 18:23:18,262 - root - INFO - *********** opening application URL ***********
+2021-05-21 18:23:18,262 - root - INFO - *********** opening application URL ***********
+2021-05-21 18:23:18,829 - root - INFO - ********* setting up cookie is Success ************
+2021-05-21 18:23:18,829 - root - INFO - ********* setting up cookie is Success ************
+2021-05-21 18:23:19,898 - root - INFO - ********* switching to iframe is Success ************
+2021-05-21 18:23:19,898 - root - INFO - ********* switching to iframe is Success ************
+2021-05-21 18:23:19,898 - root - INFO - ********* Finding the phone field element  ************
+2021-05-21 18:23:19,898 - root - INFO - ********* Finding the phone field element  ************
+2021-05-21 18:23:24,943 - root - INFO - ********** testing if the phone field is blank **********
+2021-05-21 18:23:24,943 - root - INFO - ********** testing if the phone field is blank **********
+2021-05-21 18:23:24,963 - root - INFO - ********** phone field is blank success **********
+2021-05-21 18:23:24,963 - root - INFO - ********** phone field is blank success **********
+2021-05-21 18:23:25,151 - root - INFO - ********** checking if phone field has characters **********
+2021-05-21 18:23:25,151 - root - INFO - ********** checking if phone field has characters **********
+2021-05-21 18:25:34,713 - root - INFO - ********* Testing phone Field ***********
+2021-05-21 18:25:36,359 - root - INFO - *********** Launching browser ***********
+2021-05-21 18:25:36,359 - root - INFO - *********** Launching browser ***********
+2021-05-21 18:25:38,971 - root - INFO - *********** opening application URL ***********
+2021-05-21 18:25:38,971 - root - INFO - *********** opening application URL ***********
+2021-05-21 18:25:39,555 - root - INFO - ********* setting up cookie is Success ************
+2021-05-21 18:25:39,555 - root - INFO - ********* setting up cookie is Success ************
+2021-05-21 18:25:40,593 - root - INFO - ********* switching to iframe is Success ************
+2021-05-21 18:25:40,593 - root - INFO - ********* switching to iframe is Success ************
+2021-05-21 18:25:40,593 - root - INFO - ********* Finding the phone field element  ************
+2021-05-21 18:25:40,593 - root - INFO - ********* Finding the phone field element  ************
+2021-05-21 18:25:45,608 - root - INFO - ********** testing if the phone field is blank **********
+2021-05-21 18:25:45,608 - root - INFO - ********** testing if the phone field is blank **********
+2021-05-21 18:25:45,615 - root - INFO - ********** phone field is blank success **********
+2021-05-21 18:25:45,615 - root - INFO - ********** phone field is blank success **********
+2021-05-21 18:25:45,673 - root - INFO - ********** checking if phone field has characters **********
+2021-05-21 18:25:45,673 - root - INFO - ********** checking if phone field has characters **********
+2021-05-21 18:26:08,119 - root - INFO - ********* Testing phone Field ***********
+2021-05-21 18:26:09,983 - root - INFO - *********** Launching browser ***********
+2021-05-21 18:26:09,983 - root - INFO - *********** Launching browser ***********
+2021-05-21 18:26:13,753 - root - INFO - *********** opening application URL ***********
+2021-05-21 18:26:13,753 - root - INFO - *********** opening application URL ***********
+2021-05-21 18:26:14,313 - root - INFO - ********* setting up cookie is Success ************
+2021-05-21 18:26:14,313 - root - INFO - ********* setting up cookie is Success ************
+2021-05-21 18:26:15,372 - root - INFO - ********* switching to iframe is Success ************
+2021-05-21 18:26:15,372 - root - INFO - ********* switching to iframe is Success ************
+2021-05-21 18:26:15,372 - root - INFO - ********* Finding the phone field element  ************
+2021-05-21 18:26:15,372 - root - INFO - ********* Finding the phone field element  ************
+2021-05-21 18:26:20,408 - root - INFO - ********** testing if the phone field is blank **********
+2021-05-21 18:26:20,408 - root - INFO - ********** testing if the phone field is blank **********
+2021-05-21 18:26:20,428 - root - INFO - ********** phone field is blank success **********
+2021-05-21 18:26:20,428 - root - INFO - ********** phone field is blank success **********
+2021-05-21 18:26:20,592 - root - INFO - ********** checking if phone field has characters **********
+2021-05-21 18:26:20,592 - root - INFO - ********** checking if phone field has characters **********
+2021-05-21 18:27:19,345 - root - INFO - ********* Testing phone Field ***********
+2021-05-21 18:27:21,104 - root - INFO - *********** Launching browser ***********
+2021-05-21 18:27:21,104 - root - INFO - *********** Launching browser ***********
+2021-05-21 18:27:23,660 - root - INFO - *********** opening application URL ***********
+2021-05-21 18:27:23,660 - root - INFO - *********** opening application URL ***********
+2021-05-21 18:27:24,275 - root - INFO - ********* setting up cookie is Success ************
+2021-05-21 18:27:24,275 - root - INFO - ********* setting up cookie is Success ************
+2021-05-21 18:27:25,333 - root - INFO - ********* switching to iframe is Success ************
+2021-05-21 18:27:25,333 - root - INFO - ********* switching to iframe is Success ************
+2021-05-21 18:27:25,333 - root - INFO - ********* Finding the phone field element  ************
+2021-05-21 18:27:25,333 - root - INFO - ********* Finding the phone field element  ************
+2021-05-21 18:27:30,383 - root - INFO - ********** testing if the phone field is blank **********
+2021-05-21 18:27:30,383 - root - INFO - ********** testing if the phone field is blank **********
+2021-05-21 18:27:30,405 - root - INFO - ********** phone field is blank success **********
+2021-05-21 18:27:30,405 - root - INFO - ********** phone field is blank success **********
+2021-05-21 18:27:30,623 - root - INFO - ********** checking if phone field has characters **********
+2021-05-21 18:27:30,623 - root - INFO - ********** checking if phone field has characters **********
+2021-05-21 18:28:04,094 - root - INFO - ********* Testing phone Field ***********
+2021-05-21 18:28:06,020 - root - INFO - *********** Launching browser ***********
+2021-05-21 18:28:06,020 - root - INFO - *********** Launching browser ***********
+2021-05-21 18:28:08,908 - root - INFO - *********** opening application URL ***********
+2021-05-21 18:28:08,908 - root - INFO - *********** opening application URL ***********
+2021-05-21 18:28:09,520 - root - INFO - ********* setting up cookie is Success ************
+2021-05-21 18:28:09,520 - root - INFO - ********* setting up cookie is Success ************
+2021-05-21 18:28:10,571 - root - INFO - ********* switching to iframe is Success ************
+2021-05-21 18:28:10,571 - root - INFO - ********* switching to iframe is Success ************
+2021-05-21 18:28:10,571 - root - INFO - ********* Finding the phone field element  ************
+2021-05-21 18:28:10,571 - root - INFO - ********* Finding the phone field element  ************
+2021-05-21 18:28:15,592 - root - INFO - ********** testing if the phone field is blank **********
+2021-05-21 18:28:15,592 - root - INFO - ********** testing if the phone field is blank **********
+2021-05-21 18:28:15,600 - root - INFO - ********** phone field is blank success **********
+2021-05-21 18:28:15,600 - root - INFO - ********** phone field is blank success **********
+2021-05-21 18:28:15,676 - root - INFO - ********** checking if phone field has characters **********
+2021-05-21 18:28:15,676 - root - INFO - ********** checking if phone field has characters **********
+2021-05-21 18:28:15,690 - root - INFO - ********** phone field is success **********
+2021-05-21 18:28:15,690 - root - INFO - ********** phone field is success **********
+2021-05-23 20:18:28,565 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 20:18:28,565 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 20:18:30,408 - root - INFO - *********** Launching browser ***********
+2021-05-23 20:18:30,408 - root - INFO - *********** Launching browser ***********
+2021-05-23 20:18:33,028 - root - INFO - *********** opening application URL ***********
+2021-05-23 20:18:33,028 - root - INFO - *********** opening application URL ***********
+2021-05-23 20:18:33,595 - root - INFO - ********* setting up cookie is Success ************
+2021-05-23 20:18:33,595 - root - INFO - ********* setting up cookie is Success ************
+2021-05-23 20:18:34,652 - root - INFO - ********* switching to iframe is Success ************
+2021-05-23 20:18:34,652 - root - INFO - ********* switching to iframe is Success ************
+2021-05-23 20:18:34,653 - root - INFO - ********* Finding the phone field element  ************
+2021-05-23 20:18:34,653 - root - INFO - ********* Finding the phone field element  ************
+2021-05-23 20:18:39,679 - root - INFO - ********** testing if the phone field is blank **********
+2021-05-23 20:18:39,679 - root - INFO - ********** testing if the phone field is blank **********
+2021-05-23 20:18:39,691 - root - INFO - ********** phone field is blank success **********
+2021-05-23 20:18:39,691 - root - INFO - ********** phone field is blank success **********
+2021-05-23 20:18:39,806 - root - INFO - ********** checking if phone field has characters **********
+2021-05-23 20:18:39,806 - root - INFO - ********** checking if phone field has characters **********
+2021-05-23 20:18:39,813 - root - INFO - ********** phone field is success **********
+2021-05-23 20:18:39,813 - root - INFO - ********** phone field is success **********
+2021-05-23 20:19:01,498 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 20:19:01,498 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 20:19:03,385 - root - INFO - *********** Launching browser ***********
+2021-05-23 20:19:03,385 - root - INFO - *********** Launching browser ***********
+2021-05-23 20:19:06,063 - root - INFO - *********** opening application URL ***********
+2021-05-23 20:19:06,063 - root - INFO - *********** opening application URL ***********
+2021-05-23 20:19:06,668 - root - INFO - ********* setting up cookie is Success ************
+2021-05-23 20:19:06,668 - root - INFO - ********* setting up cookie is Success ************
+2021-05-23 20:19:07,700 - root - INFO - ********* switching to iframe is Success ************
+2021-05-23 20:19:07,700 - root - INFO - ********* switching to iframe is Success ************
+2021-05-23 20:19:07,700 - root - INFO - ********* Finding the phone field element  ************
+2021-05-23 20:19:07,700 - root - INFO - ********* Finding the phone field element  ************
+2021-05-23 20:19:12,719 - root - INFO - ********** testing if the phone field is blank **********
+2021-05-23 20:19:12,719 - root - INFO - ********** testing if the phone field is blank **********
+2021-05-23 20:19:12,729 - root - INFO - ********** phone field is blank success **********
+2021-05-23 20:19:12,729 - root - INFO - ********** phone field is blank success **********
+2021-05-23 20:19:12,836 - root - INFO - ********** checking if phone field has characters **********
+2021-05-23 20:19:12,836 - root - INFO - ********** checking if phone field has characters **********
+2021-05-23 20:19:12,836 - root - INFO - ********** phone field is success **********
+2021-05-23 20:19:12,836 - root - INFO - ********** phone field is success **********
+2021-05-23 20:29:14,159 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 20:29:14,159 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 20:29:14,159 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 20:29:14,159 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 20:29:14,159 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 20:29:15,731 - root - INFO - *********** Launching browser ***********
+2021-05-23 20:29:15,731 - root - INFO - *********** Launching browser ***********
+2021-05-23 20:29:15,731 - root - INFO - *********** Launching browser ***********
+2021-05-23 20:29:18,380 - root - INFO - *********** opening application URL ***********
+2021-05-23 20:29:18,380 - root - INFO - *********** opening application URL ***********
+2021-05-23 20:29:18,380 - root - INFO - *********** opening application URL ***********
+2021-05-23 20:29:19,124 - root - INFO - ********* setting up cookie is Success ************
+2021-05-23 20:29:19,124 - root - INFO - ********* setting up cookie is Success ************
+2021-05-23 20:29:19,124 - root - INFO - ********* setting up cookie is Success ************
+2021-05-23 20:29:20,181 - root - INFO - ********* switching to iframe is Success ************
+2021-05-23 20:29:20,181 - root - INFO - ********* switching to iframe is Success ************
+2021-05-23 20:29:20,181 - root - INFO - ********* switching to iframe is Success ************
+2021-05-23 20:29:20,181 - root - INFO - ********* Finding the phone field element  ************
+2021-05-23 20:29:20,181 - root - INFO - ********* Finding the phone field element  ************
+2021-05-23 20:29:20,181 - root - INFO - ********* Finding the phone field element  ************
+2021-05-23 20:30:35,303 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 20:30:35,303 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 20:30:35,303 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 20:30:35,303 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 20:30:35,303 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 20:30:37,033 - root - INFO - *********** Launching browser ***********
+2021-05-23 20:30:37,033 - root - INFO - *********** Launching browser ***********
+2021-05-23 20:30:37,033 - root - INFO - *********** Launching browser ***********
+2021-05-23 20:30:40,070 - root - INFO - *********** opening application URL ***********
+2021-05-23 20:30:40,070 - root - INFO - *********** opening application URL ***********
+2021-05-23 20:30:40,070 - root - INFO - *********** opening application URL ***********
+2021-05-23 20:30:40,780 - root - INFO - ********* setting up cookie is Success ************
+2021-05-23 20:30:40,780 - root - INFO - ********* setting up cookie is Success ************
+2021-05-23 20:30:40,780 - root - INFO - ********* setting up cookie is Success ************
+2021-05-23 20:30:41,935 - root - INFO - ********* switching to iframe is Success ************
+2021-05-23 20:30:41,935 - root - INFO - ********* switching to iframe is Success ************
+2021-05-23 20:30:41,935 - root - INFO - ********* switching to iframe is Success ************
+2021-05-23 20:30:41,936 - root - INFO - ********* Finding the phone field element  ************
+2021-05-23 20:30:41,936 - root - INFO - ********* Finding the phone field element  ************
+2021-05-23 20:30:41,936 - root - INFO - ********* Finding the phone field element  ************
+2021-05-23 20:35:07,283 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 20:35:07,283 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 20:35:07,284 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 20:35:07,284 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 20:35:07,284 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 20:35:09,005 - root - INFO - *********** Launching browser ***********
+2021-05-23 20:35:09,005 - root - INFO - *********** Launching browser ***********
+2021-05-23 20:35:09,005 - root - INFO - *********** Launching browser ***********
+2021-05-23 20:35:12,033 - root - INFO - *********** opening application URL ***********
+2021-05-23 20:35:12,033 - root - INFO - *********** opening application URL ***********
+2021-05-23 20:35:12,033 - root - INFO - *********** opening application URL ***********
+2021-05-23 20:35:12,634 - root - INFO - ********* setting up cookie is Success ************
+2021-05-23 20:35:12,634 - root - INFO - ********* setting up cookie is Success ************
+2021-05-23 20:35:12,634 - root - INFO - ********* setting up cookie is Success ************
+2021-05-23 20:35:13,742 - root - INFO - ********* switching to iframe is Success ************
+2021-05-23 20:35:13,742 - root - INFO - ********* switching to iframe is Success ************
+2021-05-23 20:35:13,742 - root - INFO - ********* switching to iframe is Success ************
+2021-05-23 20:35:13,743 - root - INFO - ********* Finding the phone field element  ************
+2021-05-23 20:35:13,743 - root - INFO - ********* Finding the phone field element  ************
+2021-05-23 20:35:13,743 - root - INFO - ********* Finding the phone field element  ************
+2021-05-23 20:36:49,583 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 20:36:49,583 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 20:36:49,584 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 20:36:49,584 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 20:36:49,584 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 20:36:51,911 - root - INFO - *********** Launching browser ***********
+2021-05-23 20:36:51,911 - root - INFO - *********** Launching browser ***********
+2021-05-23 20:36:51,911 - root - INFO - *********** Launching browser ***********
+2021-05-23 20:36:54,457 - root - INFO - *********** opening application URL ***********
+2021-05-23 20:36:54,457 - root - INFO - *********** opening application URL ***********
+2021-05-23 20:36:54,457 - root - INFO - *********** opening application URL ***********
+2021-05-23 20:36:55,079 - root - INFO - ********* setting up cookie is Success ************
+2021-05-23 20:36:55,079 - root - INFO - ********* setting up cookie is Success ************
+2021-05-23 20:36:55,079 - root - INFO - ********* setting up cookie is Success ************
+2021-05-23 20:36:56,137 - root - INFO - ********* switching to iframe is Success ************
+2021-05-23 20:36:56,137 - root - INFO - ********* switching to iframe is Success ************
+2021-05-23 20:36:56,137 - root - INFO - ********* switching to iframe is Success ************
+2021-05-23 20:36:56,137 - root - INFO - ********* Finding the phone field element  ************
+2021-05-23 20:36:56,137 - root - INFO - ********* Finding the phone field element  ************
+2021-05-23 20:36:56,137 - root - INFO - ********* Finding the phone field element  ************
+2021-05-23 20:39:49,821 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 20:39:49,821 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 20:39:49,822 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 20:39:49,822 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 20:39:49,822 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 20:39:51,688 - root - INFO - *********** Launching browser ***********
+2021-05-23 20:39:51,688 - root - INFO - *********** Launching browser ***********
+2021-05-23 20:39:51,688 - root - INFO - *********** Launching browser ***********
+2021-05-23 20:39:54,371 - root - INFO - *********** opening application URL ***********
+2021-05-23 20:39:54,371 - root - INFO - *********** opening application URL ***********
+2021-05-23 20:39:54,371 - root - INFO - *********** opening application URL ***********
+2021-05-23 20:39:54,960 - root - INFO - ********* setting up cookie is Success ************
+2021-05-23 20:39:54,960 - root - INFO - ********* setting up cookie is Success ************
+2021-05-23 20:39:54,960 - root - INFO - ********* setting up cookie is Success ************
+2021-05-23 20:39:56,002 - root - INFO - ********* switching to iframe is Success ************
+2021-05-23 20:39:56,002 - root - INFO - ********* switching to iframe is Success ************
+2021-05-23 20:39:56,002 - root - INFO - ********* switching to iframe is Success ************
+2021-05-23 20:39:56,002 - root - INFO - ********* Finding the phone field element  ************
+2021-05-23 20:39:56,002 - root - INFO - ********* Finding the phone field element  ************
+2021-05-23 20:39:56,002 - root - INFO - ********* Finding the phone field element  ************
+2021-05-23 20:40:15,361 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 20:40:15,361 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 20:40:15,361 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 20:40:15,361 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 20:40:15,361 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 20:40:17,136 - root - INFO - *********** Launching browser ***********
+2021-05-23 20:40:17,136 - root - INFO - *********** Launching browser ***********
+2021-05-23 20:40:17,136 - root - INFO - *********** Launching browser ***********
+2021-05-23 20:40:19,364 - root - INFO - *********** opening application URL ***********
+2021-05-23 20:40:19,364 - root - INFO - *********** opening application URL ***********
+2021-05-23 20:40:19,364 - root - INFO - *********** opening application URL ***********
+2021-05-23 20:40:19,958 - root - INFO - ********* setting up cookie is Success ************
+2021-05-23 20:40:19,958 - root - INFO - ********* setting up cookie is Success ************
+2021-05-23 20:40:19,958 - root - INFO - ********* setting up cookie is Success ************
+2021-05-23 20:40:21,002 - root - INFO - ********* switching to iframe is Success ************
+2021-05-23 20:40:21,002 - root - INFO - ********* switching to iframe is Success ************
+2021-05-23 20:40:21,002 - root - INFO - ********* switching to iframe is Success ************
+2021-05-23 20:40:21,002 - root - INFO - ********* Finding the phone field element  ************
+2021-05-23 20:40:21,002 - root - INFO - ********* Finding the phone field element  ************
+2021-05-23 20:40:21,002 - root - INFO - ********* Finding the phone field element  ************
+2021-05-23 20:40:44,760 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 20:40:44,760 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 20:40:44,760 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 20:40:44,760 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 20:40:44,760 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 20:40:46,505 - root - INFO - *********** Launching browser ***********
+2021-05-23 20:40:46,505 - root - INFO - *********** Launching browser ***********
+2021-05-23 20:40:46,505 - root - INFO - *********** Launching browser ***********
+2021-05-23 20:40:48,610 - root - INFO - *********** opening application URL ***********
+2021-05-23 20:40:48,610 - root - INFO - *********** opening application URL ***********
+2021-05-23 20:40:48,610 - root - INFO - *********** opening application URL ***********
+2021-05-23 20:40:49,175 - root - INFO - ********* setting up cookie is Success ************
+2021-05-23 20:40:49,175 - root - INFO - ********* setting up cookie is Success ************
+2021-05-23 20:40:49,175 - root - INFO - ********* setting up cookie is Success ************
+2021-05-23 20:40:50,219 - root - INFO - ********* switching to iframe is Success ************
+2021-05-23 20:40:50,219 - root - INFO - ********* switching to iframe is Success ************
+2021-05-23 20:40:50,219 - root - INFO - ********* switching to iframe is Success ************
+2021-05-23 20:40:50,219 - root - INFO - ********* Finding the phone field element  ************
+2021-05-23 20:40:50,219 - root - INFO - ********* Finding the phone field element  ************
+2021-05-23 20:40:50,219 - root - INFO - ********* Finding the phone field element  ************
+2021-05-23 20:47:47,320 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 20:47:47,320 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 20:47:47,321 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 20:47:47,321 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 20:47:47,321 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 20:47:49,271 - root - INFO - *********** Launching browser ***********
+2021-05-23 20:47:49,271 - root - INFO - *********** Launching browser ***********
+2021-05-23 20:47:49,271 - root - INFO - *********** Launching browser ***********
+2021-05-23 20:47:51,640 - root - INFO - *********** opening application URL ***********
+2021-05-23 20:47:51,640 - root - INFO - *********** opening application URL ***********
+2021-05-23 20:47:51,640 - root - INFO - *********** opening application URL ***********
+2021-05-23 20:47:52,253 - root - INFO - ********* setting up cookie is Success ************
+2021-05-23 20:47:52,253 - root - INFO - ********* setting up cookie is Success ************
+2021-05-23 20:47:52,253 - root - INFO - ********* setting up cookie is Success ************
+2021-05-23 20:47:53,311 - root - INFO - ********* switching to iframe is Success ************
+2021-05-23 20:47:53,311 - root - INFO - ********* switching to iframe is Success ************
+2021-05-23 20:47:53,311 - root - INFO - ********* switching to iframe is Success ************
+2021-05-23 20:47:53,311 - root - INFO - ********* Finding the phone field element  ************
+2021-05-23 20:47:53,311 - root - INFO - ********* Finding the phone field element  ************
+2021-05-23 20:47:53,311 - root - INFO - ********* Finding the phone field element  ************
+2021-05-23 20:49:31,319 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 20:49:31,319 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 20:49:31,319 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 20:49:31,319 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 20:49:31,319 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 20:49:33,104 - root - INFO - *********** Launching browser ***********
+2021-05-23 20:49:33,104 - root - INFO - *********** Launching browser ***********
+2021-05-23 20:49:33,104 - root - INFO - *********** Launching browser ***********
+2021-05-23 20:49:35,955 - root - INFO - *********** opening application URL ***********
+2021-05-23 20:49:35,955 - root - INFO - *********** opening application URL ***********
+2021-05-23 20:49:35,955 - root - INFO - *********** opening application URL ***********
+2021-05-23 20:49:36,540 - root - INFO - ********* setting up cookie is Success ************
+2021-05-23 20:49:36,540 - root - INFO - ********* setting up cookie is Success ************
+2021-05-23 20:49:36,540 - root - INFO - ********* setting up cookie is Success ************
+2021-05-23 20:49:37,655 - root - INFO - ********* switching to iframe is Success ************
+2021-05-23 20:49:37,655 - root - INFO - ********* switching to iframe is Success ************
+2021-05-23 20:49:37,655 - root - INFO - ********* switching to iframe is Success ************
+2021-05-23 20:49:37,655 - root - INFO - ********* Finding the phone field element  ************
+2021-05-23 20:49:37,655 - root - INFO - ********* Finding the phone field element  ************
+2021-05-23 20:49:37,655 - root - INFO - ********* Finding the phone field element  ************
+2021-05-23 20:54:03,954 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 20:54:03,954 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 20:54:03,954 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 20:54:03,954 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 20:54:03,954 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 20:54:05,678 - root - INFO - *********** Launching browser ***********
+2021-05-23 20:54:05,678 - root - INFO - *********** Launching browser ***********
+2021-05-23 20:54:05,678 - root - INFO - *********** Launching browser ***********
+2021-05-23 20:54:11,042 - root - INFO - *********** opening application URL ***********
+2021-05-23 20:54:11,042 - root - INFO - *********** opening application URL ***********
+2021-05-23 20:54:11,042 - root - INFO - *********** opening application URL ***********
+2021-05-23 20:54:11,608 - root - INFO - ********* setting up cookie is Success ************
+2021-05-23 20:54:11,608 - root - INFO - ********* setting up cookie is Success ************
+2021-05-23 20:54:11,608 - root - INFO - ********* setting up cookie is Success ************
+2021-05-23 20:54:12,677 - root - INFO - ********* switching to iframe is Success ************
+2021-05-23 20:54:12,677 - root - INFO - ********* switching to iframe is Success ************
+2021-05-23 20:54:12,677 - root - INFO - ********* switching to iframe is Success ************
+2021-05-23 20:54:12,677 - root - INFO - ********* Finding the phone field element  ************
+2021-05-23 20:54:12,677 - root - INFO - ********* Finding the phone field element  ************
+2021-05-23 20:54:12,677 - root - INFO - ********* Finding the phone field element  ************
+2021-05-23 20:54:39,350 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 20:54:39,350 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 20:54:39,350 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 20:54:39,350 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 20:54:39,350 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 20:54:41,140 - root - INFO - *********** Launching browser ***********
+2021-05-23 20:54:41,140 - root - INFO - *********** Launching browser ***********
+2021-05-23 20:54:41,140 - root - INFO - *********** Launching browser ***********
+2021-05-23 20:54:43,954 - root - INFO - *********** opening application URL ***********
+2021-05-23 20:54:43,954 - root - INFO - *********** opening application URL ***********
+2021-05-23 20:54:43,954 - root - INFO - *********** opening application URL ***********
+2021-05-23 20:54:44,551 - root - INFO - ********* setting up cookie is Success ************
+2021-05-23 20:54:44,551 - root - INFO - ********* setting up cookie is Success ************
+2021-05-23 20:54:44,551 - root - INFO - ********* setting up cookie is Success ************
+2021-05-23 20:54:45,680 - root - INFO - ********* switching to iframe is Success ************
+2021-05-23 20:54:45,680 - root - INFO - ********* switching to iframe is Success ************
+2021-05-23 20:54:45,680 - root - INFO - ********* switching to iframe is Success ************
+2021-05-23 20:54:45,680 - root - INFO - ********* Finding the phone field element  ************
+2021-05-23 20:54:45,680 - root - INFO - ********* Finding the phone field element  ************
+2021-05-23 20:54:45,680 - root - INFO - ********* Finding the phone field element  ************
+2021-05-23 20:55:48,012 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 20:55:48,012 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 20:55:48,012 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 20:55:48,012 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 20:55:48,012 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 20:55:49,776 - root - INFO - *********** Launching browser ***********
+2021-05-23 20:55:49,776 - root - INFO - *********** Launching browser ***********
+2021-05-23 20:55:49,776 - root - INFO - *********** Launching browser ***********
+2021-05-23 20:55:51,762 - root - INFO - *********** opening application URL ***********
+2021-05-23 20:55:51,762 - root - INFO - *********** opening application URL ***********
+2021-05-23 20:55:51,762 - root - INFO - *********** opening application URL ***********
+2021-05-23 20:55:52,367 - root - INFO - ********* setting up cookie is Success ************
+2021-05-23 20:55:52,367 - root - INFO - ********* setting up cookie is Success ************
+2021-05-23 20:55:52,367 - root - INFO - ********* setting up cookie is Success ************
+2021-05-23 20:55:53,473 - root - INFO - ********* switching to iframe is Success ************
+2021-05-23 20:55:53,473 - root - INFO - ********* switching to iframe is Success ************
+2021-05-23 20:55:53,473 - root - INFO - ********* switching to iframe is Success ************
+2021-05-23 20:55:53,473 - root - INFO - ********* Finding the phone field element  ************
+2021-05-23 20:55:53,473 - root - INFO - ********* Finding the phone field element  ************
+2021-05-23 20:55:53,473 - root - INFO - ********* Finding the phone field element  ************
+2021-05-23 20:58:49,054 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 20:58:49,054 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 20:58:49,055 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 20:58:49,055 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 20:58:49,055 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 20:58:50,832 - root - INFO - *********** Launching browser ***********
+2021-05-23 20:58:50,832 - root - INFO - *********** Launching browser ***********
+2021-05-23 20:58:50,832 - root - INFO - *********** Launching browser ***********
+2021-05-23 20:58:53,485 - root - INFO - *********** opening application URL ***********
+2021-05-23 20:58:53,485 - root - INFO - *********** opening application URL ***********
+2021-05-23 20:58:53,485 - root - INFO - *********** opening application URL ***********
+2021-05-23 20:58:54,078 - root - INFO - ********* setting up cookie is Success ************
+2021-05-23 20:58:54,078 - root - INFO - ********* setting up cookie is Success ************
+2021-05-23 20:58:54,078 - root - INFO - ********* setting up cookie is Success ************
+2021-05-23 20:58:55,180 - root - INFO - ********* switching to iframe is Success ************
+2021-05-23 20:58:55,180 - root - INFO - ********* switching to iframe is Success ************
+2021-05-23 20:58:55,180 - root - INFO - ********* switching to iframe is Success ************
+2021-05-23 20:58:55,181 - root - INFO - ********* Finding the phone field element  ************
+2021-05-23 20:58:55,181 - root - INFO - ********* Finding the phone field element  ************
+2021-05-23 20:58:55,181 - root - INFO - ********* Finding the phone field element  ************
+2021-05-23 21:00:04,348 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 21:00:04,348 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 21:00:04,348 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 21:00:04,348 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 21:00:04,348 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 21:00:06,225 - root - INFO - *********** Launching browser ***********
+2021-05-23 21:00:06,225 - root - INFO - *********** Launching browser ***********
+2021-05-23 21:00:06,225 - root - INFO - *********** Launching browser ***********
+2021-05-23 21:00:08,996 - root - INFO - *********** opening application URL ***********
+2021-05-23 21:00:08,996 - root - INFO - *********** opening application URL ***********
+2021-05-23 21:00:08,996 - root - INFO - *********** opening application URL ***********
+2021-05-23 21:00:09,672 - root - INFO - ********* setting up cookie is Success ************
+2021-05-23 21:00:09,672 - root - INFO - ********* setting up cookie is Success ************
+2021-05-23 21:00:09,672 - root - INFO - ********* setting up cookie is Success ************
+2021-05-23 21:00:10,793 - root - INFO - ********* switching to iframe is Success ************
+2021-05-23 21:00:10,793 - root - INFO - ********* switching to iframe is Success ************
+2021-05-23 21:00:10,793 - root - INFO - ********* switching to iframe is Success ************
+2021-05-23 21:00:10,794 - root - INFO - ********* Finding the phone field element  ************
+2021-05-23 21:00:10,794 - root - INFO - ********* Finding the phone field element  ************
+2021-05-23 21:00:10,794 - root - INFO - ********* Finding the phone field element  ************
+2021-05-23 21:00:59,532 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 21:00:59,532 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 21:00:59,532 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 21:00:59,532 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 21:00:59,532 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 21:01:01,394 - root - INFO - *********** Launching browser ***********
+2021-05-23 21:01:01,394 - root - INFO - *********** Launching browser ***********
+2021-05-23 21:01:01,394 - root - INFO - *********** Launching browser ***********
+2021-05-23 21:01:05,576 - root - INFO - *********** opening application URL ***********
+2021-05-23 21:01:05,576 - root - INFO - *********** opening application URL ***********
+2021-05-23 21:01:05,576 - root - INFO - *********** opening application URL ***********
+2021-05-23 21:01:06,179 - root - INFO - ********* setting up cookie is Success ************
+2021-05-23 21:01:06,179 - root - INFO - ********* setting up cookie is Success ************
+2021-05-23 21:01:06,179 - root - INFO - ********* setting up cookie is Success ************
+2021-05-23 21:01:07,247 - root - INFO - ********* switching to iframe is Success ************
+2021-05-23 21:01:07,247 - root - INFO - ********* switching to iframe is Success ************
+2021-05-23 21:01:07,247 - root - INFO - ********* switching to iframe is Success ************
+2021-05-23 21:01:07,247 - root - INFO - ********* Finding the phone field element  ************
+2021-05-23 21:01:07,247 - root - INFO - ********* Finding the phone field element  ************
+2021-05-23 21:01:07,247 - root - INFO - ********* Finding the phone field element  ************
+2021-05-23 21:14:42,183 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 21:14:42,183 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 21:14:42,184 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 21:14:42,184 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 21:14:42,184 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 21:14:43,957 - root - INFO - *********** Launching browser ***********
+2021-05-23 21:14:43,957 - root - INFO - *********** Launching browser ***********
+2021-05-23 21:14:43,957 - root - INFO - *********** Launching browser ***********
+2021-05-23 21:14:48,193 - root - INFO - *********** opening application URL ***********
+2021-05-23 21:14:48,193 - root - INFO - *********** opening application URL ***********
+2021-05-23 21:14:48,193 - root - INFO - *********** opening application URL ***********
+2021-05-23 21:14:48,878 - root - INFO - ********* setting up cookie is Success ************
+2021-05-23 21:14:48,878 - root - INFO - ********* setting up cookie is Success ************
+2021-05-23 21:14:48,878 - root - INFO - ********* setting up cookie is Success ************
+2021-05-23 21:14:49,987 - root - INFO - ********* switching to iframe is Success ************
+2021-05-23 21:14:49,987 - root - INFO - ********* switching to iframe is Success ************
+2021-05-23 21:14:49,987 - root - INFO - ********* switching to iframe is Success ************
+2021-05-23 21:14:49,987 - root - INFO - ********* Finding the phone field element  ************
+2021-05-23 21:14:49,987 - root - INFO - ********* Finding the phone field element  ************
+2021-05-23 21:14:49,987 - root - INFO - ********* Finding the phone field element  ************
+2021-05-23 21:15:25,823 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 21:15:25,823 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 21:15:25,825 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 21:15:25,825 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 21:15:25,825 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 21:15:27,532 - root - INFO - *********** Launching browser ***********
+2021-05-23 21:15:27,532 - root - INFO - *********** Launching browser ***********
+2021-05-23 21:15:27,532 - root - INFO - *********** Launching browser ***********
+2021-05-23 21:15:31,756 - root - INFO - *********** opening application URL ***********
+2021-05-23 21:15:31,756 - root - INFO - *********** opening application URL ***********
+2021-05-23 21:15:31,756 - root - INFO - *********** opening application URL ***********
+2021-05-23 21:15:32,388 - root - INFO - ********* setting up cookie is Success ************
+2021-05-23 21:15:32,388 - root - INFO - ********* setting up cookie is Success ************
+2021-05-23 21:15:32,388 - root - INFO - ********* setting up cookie is Success ************
+2021-05-23 21:15:33,441 - root - INFO - ********* switching to iframe is Success ************
+2021-05-23 21:15:33,441 - root - INFO - ********* switching to iframe is Success ************
+2021-05-23 21:15:33,441 - root - INFO - ********* switching to iframe is Success ************
+2021-05-23 21:15:33,442 - root - INFO - ********* Finding the phone field element  ************
+2021-05-23 21:15:33,442 - root - INFO - ********* Finding the phone field element  ************
+2021-05-23 21:15:33,442 - root - INFO - ********* Finding the phone field element  ************
+2021-05-23 21:43:39,833 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 21:43:39,833 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 21:43:39,833 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 21:43:39,833 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 21:43:39,833 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 21:43:39,833 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 21:43:39,833 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 21:45:04,667 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 21:45:04,667 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 21:45:04,667 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 21:45:04,668 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 21:45:04,668 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 21:45:04,668 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 21:45:04,668 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 21:45:06,560 - root - INFO - *********** Launching browser ***********
+2021-05-23 21:45:06,560 - root - INFO - *********** Launching browser ***********
+2021-05-23 21:45:06,560 - root - INFO - *********** Launching browser ***********
+2021-05-23 21:45:06,560 - root - INFO - *********** Launching browser ***********
+2021-05-23 21:45:10,737 - root - INFO - *********** opening application URL ***********
+2021-05-23 21:45:10,737 - root - INFO - *********** opening application URL ***********
+2021-05-23 21:45:10,737 - root - INFO - *********** opening application URL ***********
+2021-05-23 21:45:10,737 - root - INFO - *********** opening application URL ***********
+2021-05-23 21:45:11,333 - root - INFO - ********* setting up cookie is Success ************
+2021-05-23 21:45:11,333 - root - INFO - ********* setting up cookie is Success ************
+2021-05-23 21:45:11,333 - root - INFO - ********* setting up cookie is Success ************
+2021-05-23 21:45:11,333 - root - INFO - ********* setting up cookie is Success ************
+2021-05-23 21:45:12,416 - root - INFO - ********* switching to iframe is Success ************
+2021-05-23 21:45:12,416 - root - INFO - ********* switching to iframe is Success ************
+2021-05-23 21:45:12,416 - root - INFO - ********* switching to iframe is Success ************
+2021-05-23 21:45:12,416 - root - INFO - ********* switching to iframe is Success ************
+2021-05-23 21:52:23,060 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 21:52:23,060 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 21:52:23,060 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 21:52:23,061 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 21:52:23,061 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 21:52:23,061 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 21:52:23,061 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 21:53:13,763 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 21:53:13,763 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 21:53:13,763 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 21:53:13,763 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 21:53:13,763 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 21:53:13,763 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 21:53:13,763 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 21:53:41,968 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 21:53:41,968 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 21:53:41,968 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 21:53:41,968 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 21:53:41,968 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 21:53:41,968 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 21:53:41,968 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 21:54:24,335 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 21:54:24,335 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 21:54:24,335 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 21:54:24,335 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 21:54:24,335 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 21:54:24,335 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 21:54:24,335 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 21:57:26,929 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 21:57:26,929 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 21:57:26,929 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 21:57:26,930 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 21:57:26,930 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 21:57:26,930 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 21:57:26,930 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:00:17,527 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:00:17,527 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:00:17,527 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:00:17,528 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:00:17,528 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:00:17,528 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:00:17,528 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:05:41,888 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:05:41,888 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:05:41,888 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:05:41,889 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:05:41,889 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:05:41,889 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:05:41,889 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:06:06,577 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:06:06,577 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:06:06,577 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:06:06,578 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:06:06,578 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:06:06,578 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:06:06,578 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:07:06,691 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:07:06,691 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:07:06,691 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:07:06,691 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:07:06,691 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:07:06,691 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:07:06,691 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:26:12,198 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:26:12,198 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:26:12,198 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:26:12,198 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:26:12,198 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:26:12,198 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:26:12,198 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:26:38,455 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:26:38,455 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:26:38,455 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:26:38,455 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:26:38,455 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:26:38,455 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:26:38,455 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:36:12,478 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:36:12,478 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:36:12,478 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:36:12,478 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:36:12,478 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:36:12,478 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:36:12,478 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:37:50,024 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:37:50,024 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:37:50,024 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:37:50,024 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:37:50,024 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:37:50,024 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:37:50,024 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:38:54,191 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:38:54,191 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:38:54,191 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:38:54,191 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:38:54,191 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:38:54,191 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:38:54,191 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:43:59,569 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:43:59,569 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:43:59,569 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:43:59,570 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:43:59,570 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:43:59,570 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:43:59,570 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:44:17,224 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:44:17,224 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:44:17,224 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:44:17,225 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:44:17,225 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:44:17,225 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:44:17,225 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:44:54,001 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:44:54,001 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:44:54,001 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:44:54,001 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:44:54,001 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:44:54,001 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:44:54,001 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:46:01,718 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:46:01,718 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:46:01,718 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:46:01,718 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:46:01,718 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:46:01,718 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:46:01,718 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:48:33,271 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:48:33,271 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:48:33,271 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:48:33,272 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:48:33,272 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:48:33,272 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:48:33,272 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:49:04,443 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:49:04,443 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:49:04,443 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:49:04,444 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:49:04,444 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:49:04,444 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:49:04,444 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:51:06,328 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:51:06,328 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:51:06,328 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:51:06,329 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:51:06,329 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:51:06,329 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:51:06,329 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:51:10,526 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:51:10,526 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:51:10,526 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:51:10,526 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:51:10,526 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:51:10,526 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:51:10,526 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:51:35,750 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:51:35,750 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:51:35,750 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:51:35,750 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:51:35,750 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:51:35,750 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:51:35,750 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:52:41,494 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:52:41,494 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:52:41,494 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:52:41,495 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:52:41,495 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:52:41,495 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:52:41,495 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:53:10,154 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:53:10,154 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:53:10,154 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:53:10,154 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:53:10,154 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:53:10,154 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:53:10,154 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:53:40,673 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:53:40,673 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:53:40,673 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:53:40,674 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:53:40,674 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:53:40,674 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:53:40,674 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:56:41,703 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:56:41,703 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:56:41,703 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:56:41,703 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:56:41,703 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:56:41,703 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:56:41,703 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:57:27,559 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:57:27,559 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:57:27,559 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:57:27,559 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:57:27,559 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:57:27,559 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:57:27,559 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:57:40,876 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:57:40,876 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:57:40,876 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:57:40,877 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:57:40,877 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:57:40,877 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:57:40,877 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:58:01,031 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:58:01,031 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:58:01,031 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:58:01,032 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:58:01,032 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:58:01,032 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 22:58:01,032 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 23:03:22,705 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 23:03:22,705 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 23:03:22,705 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 23:03:22,706 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 23:03:22,706 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 23:03:22,706 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 23:03:22,706 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 23:08:21,261 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 23:08:21,261 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 23:08:21,261 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 23:08:21,261 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 23:08:21,261 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 23:08:48,013 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 23:08:48,013 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 23:08:48,014 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 23:08:48,014 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 23:08:48,014 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 23:09:50,496 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 23:09:50,496 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 23:09:50,497 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 23:09:50,497 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 23:09:50,497 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 23:09:51,849 - root - INFO - *********** Launching browser ***********
+2021-05-23 23:09:51,849 - root - INFO - *********** Launching browser ***********
+2021-05-23 23:09:51,849 - root - INFO - *********** Launching browser ***********
+2021-05-23 23:09:53,758 - root - INFO - *********** opening application URL ***********
+2021-05-23 23:09:53,758 - root - INFO - *********** opening application URL ***********
+2021-05-23 23:09:53,758 - root - INFO - *********** opening application URL ***********
+2021-05-23 23:09:54,333 - root - INFO - ********* setting up cookie is Success ************
+2021-05-23 23:09:54,333 - root - INFO - ********* setting up cookie is Success ************
+2021-05-23 23:09:54,333 - root - INFO - ********* setting up cookie is Success ************
+2021-05-23 23:09:55,387 - root - INFO - ********* switching to iframe is Success ************
+2021-05-23 23:09:55,387 - root - INFO - ********* switching to iframe is Success ************
+2021-05-23 23:09:55,387 - root - INFO - ********* switching to iframe is Success ************
+2021-05-23 23:09:55,387 - root - INFO - ********* Finding the phone field element  ************
+2021-05-23 23:09:55,387 - root - INFO - ********* Finding the phone field element  ************
+2021-05-23 23:09:55,387 - root - INFO - ********* Finding the phone field element  ************
+2021-05-23 23:11:08,760 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 23:11:08,760 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 23:11:08,760 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 23:11:08,760 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 23:11:08,760 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 23:11:10,151 - root - INFO - *********** Launching browser ***********
+2021-05-23 23:11:10,151 - root - INFO - *********** Launching browser ***********
+2021-05-23 23:11:10,151 - root - INFO - *********** Launching browser ***********
+2021-05-23 23:11:12,384 - root - INFO - *********** opening application URL ***********
+2021-05-23 23:11:12,384 - root - INFO - *********** opening application URL ***********
+2021-05-23 23:11:12,384 - root - INFO - *********** opening application URL ***********
+2021-05-23 23:11:12,954 - root - INFO - ********* setting up cookie is Success ************
+2021-05-23 23:11:12,954 - root - INFO - ********* setting up cookie is Success ************
+2021-05-23 23:11:12,954 - root - INFO - ********* setting up cookie is Success ************
+2021-05-23 23:11:13,998 - root - INFO - ********* switching to iframe is Success ************
+2021-05-23 23:11:13,998 - root - INFO - ********* switching to iframe is Success ************
+2021-05-23 23:11:13,998 - root - INFO - ********* switching to iframe is Success ************
+2021-05-23 23:11:13,999 - root - INFO - ********* Finding the phone field element  ************
+2021-05-23 23:11:13,999 - root - INFO - ********* Finding the phone field element  ************
+2021-05-23 23:11:13,999 - root - INFO - ********* Finding the phone field element  ************
+2021-05-23 23:11:19,018 - root - INFO - ********** testing if the phone field is blank **********
+2021-05-23 23:11:19,018 - root - INFO - ********** testing if the phone field is blank **********
+2021-05-23 23:11:19,018 - root - INFO - ********** testing if the phone field is blank **********
+2021-05-23 23:11:19,025 - root - INFO - ********** phone field is blank success **********
+2021-05-23 23:11:19,025 - root - INFO - ********** phone field is blank success **********
+2021-05-23 23:11:19,025 - root - INFO - ********** phone field is blank success **********
+2021-05-23 23:11:19,089 - root - INFO - ********** checking if phone field has characters **********
+2021-05-23 23:11:19,089 - root - INFO - ********** checking if phone field has characters **********
+2021-05-23 23:11:19,089 - root - INFO - ********** checking if phone field has characters **********
+2021-05-23 23:11:19,097 - root - INFO - ********** phone field is success **********
+2021-05-23 23:11:19,097 - root - INFO - ********** phone field is success **********
+2021-05-23 23:11:19,097 - root - INFO - ********** phone field is success **********
+2021-05-23 23:12:40,140 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 23:12:40,140 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 23:12:40,140 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 23:12:40,140 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 23:12:40,140 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 23:12:41,516 - root - INFO - *********testing First name Field ************
+2021-05-23 23:12:41,516 - root - INFO - *********testing First name Field ************
+2021-05-23 23:12:41,516 - root - INFO - *********testing First name Field ************
+2021-05-23 23:12:43,844 - root - INFO - *********getting application URL Success ************
+2021-05-23 23:12:43,844 - root - INFO - *********getting application URL Success ************
+2021-05-23 23:12:43,844 - root - INFO - *********getting application URL Success ************
+2021-05-23 23:12:43,902 - root - INFO - ********* setting up cookie is Success ************
+2021-05-23 23:12:43,902 - root - INFO - ********* setting up cookie is Success ************
+2021-05-23 23:12:43,902 - root - INFO - ********* setting up cookie is Success ************
+2021-05-23 23:12:46,964 - root - INFO - ********* switching to iframe is Success ************
+2021-05-23 23:12:46,964 - root - INFO - ********* switching to iframe is Success ************
+2021-05-23 23:12:46,964 - root - INFO - ********* switching to iframe is Success ************
+2021-05-23 23:12:46,964 - root - INFO - ********* Finding First name Element  ************
+2021-05-23 23:12:46,964 - root - INFO - ********* Finding First name Element  ************
+2021-05-23 23:12:46,964 - root - INFO - ********* Finding First name Element  ************
+2021-05-23 23:12:47,019 - root - INFO - ********* First name display,enable,selection is success ************
+2021-05-23 23:12:47,019 - root - INFO - ********* First name display,enable,selection is success ************
+2021-05-23 23:12:47,019 - root - INFO - ********* First name display,enable,selection is success ************
+2021-05-23 23:12:47,019 - root - INFO - ********* checking if the field is blank ************
+2021-05-23 23:12:47,019 - root - INFO - ********* checking if the field is blank ************
+2021-05-23 23:12:47,019 - root - INFO - ********* checking if the field is blank ************
+2021-05-23 23:12:47,027 - root - INFO - ********* First name field is blank ************
+2021-05-23 23:12:47,027 - root - INFO - ********* First name field is blank ************
+2021-05-23 23:12:47,027 - root - INFO - ********* First name field is blank ************
+2021-05-23 23:12:47,028 - root - INFO - ******** checking if the Firstname field is clickable ************
+2021-05-23 23:12:47,028 - root - INFO - ******** checking if the Firstname field is clickable ************
+2021-05-23 23:12:47,028 - root - INFO - ******** checking if the Firstname field is clickable ************
+2021-05-23 23:12:47,128 - root - INFO - ******** FirstName field clickable success************
+2021-05-23 23:12:47,128 - root - INFO - ******** FirstName field clickable success************
+2021-05-23 23:12:47,128 - root - INFO - ******** FirstName field clickable success************
+2021-05-23 23:12:47,128 - root - INFO - ******** checking if FirstName field is accepting input ************
+2021-05-23 23:12:47,128 - root - INFO - ******** checking if FirstName field is accepting input ************
+2021-05-23 23:12:47,128 - root - INFO - ******** checking if FirstName field is accepting input ************
+2021-05-23 23:12:47,182 - root - INFO - ******** sending keys to First name Field ************
+2021-05-23 23:12:47,182 - root - INFO - ******** sending keys to First name Field ************
+2021-05-23 23:12:47,182 - root - INFO - ******** sending keys to First name Field ************
+2021-05-23 23:12:52,560 - root - INFO - ******** sending keys to First name Field is success************
+2021-05-23 23:12:52,560 - root - INFO - ******** sending keys to First name Field is success************
+2021-05-23 23:12:52,560 - root - INFO - ******** sending keys to First name Field is success************
+2021-05-23 23:12:52,560 - root - INFO - ******** checking if the characters have any special characters ************
+2021-05-23 23:12:52,560 - root - INFO - ******** checking if the characters have any special characters ************
+2021-05-23 23:12:52,560 - root - INFO - ******** checking if the characters have any special characters ************
+2021-05-23 23:12:52,560 - root - INFO - ******** checking if the characters contains numeric values************
+2021-05-23 23:12:52,560 - root - INFO - ******** checking if the characters contains numeric values************
+2021-05-23 23:12:52,560 - root - INFO - ******** checking if the characters contains numeric values************
+2021-05-23 23:12:52,561 - root - INFO - ******** First name Field is success************
+2021-05-23 23:12:52,561 - root - INFO - ******** First name Field is success************
+2021-05-23 23:12:52,561 - root - INFO - ******** First name Field is success************
+2021-05-23 23:12:52,580 - root - INFO - *********Finished First name Field ************
+2021-05-23 23:12:52,580 - root - INFO - *********Finished First name Field ************
+2021-05-23 23:12:52,580 - root - INFO - *********Finished First name Field ************
+2021-05-23 23:13:41,750 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 23:13:41,750 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 23:13:41,750 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 23:13:41,750 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 23:13:41,750 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 23:13:43,108 - root - INFO - ******* Test Title ***********
+2021-05-23 23:13:43,108 - root - INFO - ******* Test Title ***********
+2021-05-23 23:13:43,108 - root - INFO - ******* Test Title ***********
+2021-05-23 23:13:43,109 - root - INFO - ******** Launching browser *********
+2021-05-23 23:13:43,109 - root - INFO - ******** Launching browser *********
+2021-05-23 23:13:43,109 - root - INFO - ******** Launching browser *********
+2021-05-23 23:13:45,158 - root - INFO - ******** opening application url *********
+2021-05-23 23:13:45,158 - root - INFO - ******** opening application url *********
+2021-05-23 23:13:45,158 - root - INFO - ******** opening application url *********
+2021-05-23 23:13:47,414 - root - INFO - ******** It is original title *********
+2021-05-23 23:13:47,414 - root - INFO - ******** It is original title *********
+2021-05-23 23:13:47,414 - root - INFO - ******** It is original title *********
