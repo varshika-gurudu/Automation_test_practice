@@ -1324,3 +1324,435 @@
 2021-05-23 23:13:47,414 - root - INFO - ******** It is original title *********
 2021-05-23 23:13:47,414 - root - INFO - ******** It is original title *********
 2021-05-23 23:13:47,414 - root - INFO - ******** It is original title *********
+2021-05-23 23:41:11,324 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 23:41:11,324 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 23:41:11,325 - root - INFO - ********* Testing email Field ***********
+2021-05-23 23:41:11,325 - root - INFO - ********* Testing email Field ***********
+2021-05-23 23:41:11,325 - root - INFO - ********* Testing email Field ***********
+2021-05-23 23:41:11,326 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-23 23:41:11,326 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-23 23:41:11,326 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-23 23:41:11,326 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-23 23:43:18,340 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 23:43:18,340 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 23:43:18,341 - root - INFO - ********* Testing email Field ***********
+2021-05-23 23:43:18,341 - root - INFO - ********* Testing email Field ***********
+2021-05-23 23:43:18,341 - root - INFO - ********* Testing email Field ***********
+2021-05-23 23:43:18,341 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-23 23:43:18,341 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-23 23:43:18,341 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-23 23:43:18,341 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-23 23:46:19,489 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 23:46:19,489 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 23:46:19,490 - root - INFO - ********* Testing email Field ***********
+2021-05-23 23:46:19,490 - root - INFO - ********* Testing email Field ***********
+2021-05-23 23:46:19,490 - root - INFO - ********* Testing email Field ***********
+2021-05-23 23:46:19,490 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-23 23:46:19,490 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-23 23:46:19,490 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-23 23:46:19,490 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-23 23:47:48,934 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 23:47:48,934 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 23:47:48,934 - root - INFO - ********* Testing email Field ***********
+2021-05-23 23:47:48,934 - root - INFO - ********* Testing email Field ***********
+2021-05-23 23:47:48,934 - root - INFO - ********* Testing email Field ***********
+2021-05-23 23:47:48,935 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-23 23:47:48,935 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-23 23:47:48,935 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-23 23:47:48,935 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-23 23:48:47,459 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 23:48:47,459 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 23:48:47,459 - root - INFO - ********* Testing email Field ***********
+2021-05-23 23:48:47,459 - root - INFO - ********* Testing email Field ***********
+2021-05-23 23:48:47,459 - root - INFO - ********* Testing email Field ***********
+2021-05-23 23:48:47,460 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-23 23:48:47,460 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-23 23:48:47,460 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-23 23:48:47,460 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-23 23:53:40,517 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 23:53:40,517 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 23:53:40,518 - root - INFO - ********* Testing email Field ***********
+2021-05-23 23:53:40,518 - root - INFO - ********* Testing email Field ***********
+2021-05-23 23:53:40,518 - root - INFO - ********* Testing email Field ***********
+2021-05-23 23:53:40,518 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-23 23:53:40,518 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-23 23:53:40,518 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-23 23:53:40,518 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-23 23:54:14,131 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 23:54:14,131 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 23:54:14,131 - root - INFO - ********* Testing email Field ***********
+2021-05-23 23:54:14,131 - root - INFO - ********* Testing email Field ***********
+2021-05-23 23:54:14,131 - root - INFO - ********* Testing email Field ***********
+2021-05-23 23:54:14,132 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-23 23:54:14,132 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-23 23:54:14,132 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-23 23:54:14,132 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-23 23:56:23,944 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 23:56:23,944 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 23:56:23,945 - root - INFO - ********* Testing email Field ***********
+2021-05-23 23:56:23,945 - root - INFO - ********* Testing email Field ***********
+2021-05-23 23:56:23,945 - root - INFO - ********* Testing email Field ***********
+2021-05-23 23:56:23,945 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-23 23:56:23,945 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-23 23:56:23,945 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-23 23:56:23,945 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-23 23:57:48,873 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 23:57:48,873 - root - INFO - ********* Testing phone Field ***********
+2021-05-23 23:57:48,874 - root - INFO - ********* Testing email Field ***********
+2021-05-23 23:57:48,874 - root - INFO - ********* Testing email Field ***********
+2021-05-23 23:57:48,874 - root - INFO - ********* Testing email Field ***********
+2021-05-23 23:57:48,874 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-23 23:57:48,874 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-23 23:57:48,874 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-23 23:57:48,874 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 00:06:07,515 - root - INFO - ********* Testing phone Field ***********
+2021-05-24 00:06:07,515 - root - INFO - ********* Testing phone Field ***********
+2021-05-24 00:06:07,516 - root - INFO - ********* Testing email Field ***********
+2021-05-24 00:06:07,516 - root - INFO - ********* Testing email Field ***********
+2021-05-24 00:06:07,516 - root - INFO - ********* Testing email Field ***********
+2021-05-24 00:06:07,516 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 00:06:07,516 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 00:06:07,516 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 00:06:07,516 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 00:08:27,095 - root - INFO - ********* Testing phone Field ***********
+2021-05-24 00:08:27,095 - root - INFO - ********* Testing phone Field ***********
+2021-05-24 00:08:27,096 - root - INFO - ********* Testing email Field ***********
+2021-05-24 00:08:27,096 - root - INFO - ********* Testing email Field ***********
+2021-05-24 00:08:27,096 - root - INFO - ********* Testing email Field ***********
+2021-05-24 00:08:27,097 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 00:08:27,097 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 00:08:27,097 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 00:08:27,097 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 00:11:40,410 - root - INFO - ********* Testing phone Field ***********
+2021-05-24 00:11:40,410 - root - INFO - ********* Testing phone Field ***********
+2021-05-24 00:11:40,411 - root - INFO - ********* Testing email Field ***********
+2021-05-24 00:11:40,411 - root - INFO - ********* Testing email Field ***********
+2021-05-24 00:11:40,411 - root - INFO - ********* Testing email Field ***********
+2021-05-24 00:11:40,411 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 00:11:40,411 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 00:11:40,411 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 00:11:40,411 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 00:13:18,600 - root - INFO - ********* Testing phone Field ***********
+2021-05-24 00:13:18,600 - root - INFO - ********* Testing phone Field ***********
+2021-05-24 00:13:18,600 - root - INFO - ********* Testing email Field ***********
+2021-05-24 00:13:18,600 - root - INFO - ********* Testing email Field ***********
+2021-05-24 00:13:18,600 - root - INFO - ********* Testing email Field ***********
+2021-05-24 00:13:18,600 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 00:13:18,600 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 00:13:18,600 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 00:13:18,600 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 00:14:06,060 - root - INFO - ********* Testing phone Field ***********
+2021-05-24 00:14:06,060 - root - INFO - ********* Testing phone Field ***********
+2021-05-24 00:14:06,060 - root - INFO - ********* Testing email Field ***********
+2021-05-24 00:14:06,060 - root - INFO - ********* Testing email Field ***********
+2021-05-24 00:14:06,060 - root - INFO - ********* Testing email Field ***********
+2021-05-24 00:14:06,060 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 00:14:06,060 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 00:14:06,060 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 00:14:06,060 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 00:16:28,242 - root - INFO - ********* Testing phone Field ***********
+2021-05-24 00:16:28,242 - root - INFO - ********* Testing phone Field ***********
+2021-05-24 00:16:28,243 - root - INFO - ********* Testing email Field ***********
+2021-05-24 00:16:28,243 - root - INFO - ********* Testing email Field ***********
+2021-05-24 00:16:28,243 - root - INFO - ********* Testing email Field ***********
+2021-05-24 00:16:28,243 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 00:16:28,243 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 00:16:28,243 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 00:16:28,243 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 00:17:15,994 - root - INFO - ********* Testing phone Field ***********
+2021-05-24 00:17:15,994 - root - INFO - ********* Testing phone Field ***********
+2021-05-24 00:17:15,994 - root - INFO - ********* Testing email Field ***********
+2021-05-24 00:17:15,994 - root - INFO - ********* Testing email Field ***********
+2021-05-24 00:17:15,994 - root - INFO - ********* Testing email Field ***********
+2021-05-24 00:17:15,996 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 00:17:15,996 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 00:17:15,996 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 00:17:15,996 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 00:20:09,972 - root - INFO - ********* Testing phone Field ***********
+2021-05-24 00:20:09,972 - root - INFO - ********* Testing phone Field ***********
+2021-05-24 00:20:09,974 - root - INFO - ********* Testing email Field ***********
+2021-05-24 00:20:09,974 - root - INFO - ********* Testing email Field ***********
+2021-05-24 00:20:09,974 - root - INFO - ********* Testing email Field ***********
+2021-05-24 00:20:09,974 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 00:20:09,974 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 00:20:09,974 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 00:20:09,974 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 00:22:19,966 - root - INFO - ********* Testing phone Field ***********
+2021-05-24 00:22:19,966 - root - INFO - ********* Testing phone Field ***********
+2021-05-24 00:22:19,982 - root - INFO - ********* Testing email Field ***********
+2021-05-24 00:22:19,982 - root - INFO - ********* Testing email Field ***********
+2021-05-24 00:22:19,982 - root - INFO - ********* Testing email Field ***********
+2021-05-24 00:22:19,982 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 00:22:19,982 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 00:22:19,982 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 00:22:19,982 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 00:22:42,882 - root - INFO - ********* Testing phone Field ***********
+2021-05-24 00:22:42,882 - root - INFO - ********* Testing phone Field ***********
+2021-05-24 00:22:42,883 - root - INFO - ********* Testing email Field ***********
+2021-05-24 00:22:42,883 - root - INFO - ********* Testing email Field ***********
+2021-05-24 00:22:42,883 - root - INFO - ********* Testing email Field ***********
+2021-05-24 00:22:42,883 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 00:22:42,883 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 00:22:42,883 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 00:22:42,883 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 00:23:04,026 - root - INFO - ********* Testing phone Field ***********
+2021-05-24 00:23:04,026 - root - INFO - ********* Testing phone Field ***********
+2021-05-24 00:23:04,026 - root - INFO - ********* Testing email Field ***********
+2021-05-24 00:23:04,026 - root - INFO - ********* Testing email Field ***********
+2021-05-24 00:23:04,026 - root - INFO - ********* Testing email Field ***********
+2021-05-24 00:23:04,027 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 00:23:04,027 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 00:23:04,027 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 00:23:04,027 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 00:28:02,845 - root - INFO - ********* Testing phone Field ***********
+2021-05-24 00:28:02,845 - root - INFO - ********* Testing phone Field ***********
+2021-05-24 00:28:02,846 - root - INFO - ********* Testing email Field ***********
+2021-05-24 00:28:02,846 - root - INFO - ********* Testing email Field ***********
+2021-05-24 00:28:02,846 - root - INFO - ********* Testing email Field ***********
+2021-05-24 00:28:02,846 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 00:28:02,846 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 00:28:02,846 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 00:28:02,846 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 00:28:24,535 - root - INFO - ********* Testing phone Field ***********
+2021-05-24 00:28:24,535 - root - INFO - ********* Testing phone Field ***********
+2021-05-24 00:28:24,536 - root - INFO - ********* Testing email Field ***********
+2021-05-24 00:28:24,536 - root - INFO - ********* Testing email Field ***********
+2021-05-24 00:28:24,536 - root - INFO - ********* Testing email Field ***********
+2021-05-24 00:28:24,536 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 00:28:24,536 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 00:28:24,536 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 00:28:24,536 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 00:29:36,601 - root - INFO - ********* Testing phone Field ***********
+2021-05-24 00:29:36,601 - root - INFO - ********* Testing phone Field ***********
+2021-05-24 00:29:36,603 - root - INFO - ********* Testing email Field ***********
+2021-05-24 00:29:36,603 - root - INFO - ********* Testing email Field ***********
+2021-05-24 00:29:36,603 - root - INFO - ********* Testing email Field ***********
+2021-05-24 00:29:36,604 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 00:29:36,604 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 00:29:36,604 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 00:29:36,604 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 00:29:54,945 - root - INFO - ********* Testing phone Field ***********
+2021-05-24 00:29:54,945 - root - INFO - ********* Testing phone Field ***********
+2021-05-24 00:29:54,946 - root - INFO - ********* Testing email Field ***********
+2021-05-24 00:29:54,946 - root - INFO - ********* Testing email Field ***********
+2021-05-24 00:29:54,946 - root - INFO - ********* Testing email Field ***********
+2021-05-24 00:29:54,946 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 00:29:54,946 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 00:29:54,946 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 00:29:54,946 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 00:30:25,294 - root - INFO - ********* Testing phone Field ***********
+2021-05-24 00:30:25,294 - root - INFO - ********* Testing phone Field ***********
+2021-05-24 00:30:25,295 - root - INFO - ********* Testing email Field ***********
+2021-05-24 00:30:25,295 - root - INFO - ********* Testing email Field ***********
+2021-05-24 00:30:25,295 - root - INFO - ********* Testing email Field ***********
+2021-05-24 00:30:25,296 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 00:30:25,296 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 00:30:25,296 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 00:30:25,296 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 00:32:30,321 - root - INFO - ********* Testing phone Field ***********
+2021-05-24 00:32:30,321 - root - INFO - ********* Testing phone Field ***********
+2021-05-24 00:32:30,321 - root - INFO - ********* Testing email Field ***********
+2021-05-24 00:32:30,321 - root - INFO - ********* Testing email Field ***********
+2021-05-24 00:32:30,321 - root - INFO - ********* Testing email Field ***********
+2021-05-24 00:32:30,321 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 00:32:30,321 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 00:32:30,321 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 00:32:30,321 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 00:34:02,716 - root - INFO - ********* Testing phone Field ***********
+2021-05-24 00:34:02,716 - root - INFO - ********* Testing phone Field ***********
+2021-05-24 00:34:02,717 - root - INFO - ********* Testing email Field ***********
+2021-05-24 00:34:02,717 - root - INFO - ********* Testing email Field ***********
+2021-05-24 00:34:02,717 - root - INFO - ********* Testing email Field ***********
+2021-05-24 00:34:02,717 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 00:34:02,717 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 00:34:02,717 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 00:34:02,717 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 00:36:40,917 - root - INFO - ********* Testing phone Field ***********
+2021-05-24 00:36:40,917 - root - INFO - ********* Testing phone Field ***********
+2021-05-24 00:36:40,918 - root - INFO - ********* Testing email Field ***********
+2021-05-24 00:36:40,918 - root - INFO - ********* Testing email Field ***********
+2021-05-24 00:36:40,918 - root - INFO - ********* Testing email Field ***********
+2021-05-24 00:36:40,918 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 00:36:40,918 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 00:36:40,918 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 00:36:40,918 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 00:37:31,695 - root - INFO - ********* Testing phone Field ***********
+2021-05-24 00:37:31,695 - root - INFO - ********* Testing phone Field ***********
+2021-05-24 00:37:31,696 - root - INFO - ********* Testing email Field ***********
+2021-05-24 00:37:31,696 - root - INFO - ********* Testing email Field ***********
+2021-05-24 00:37:31,696 - root - INFO - ********* Testing email Field ***********
+2021-05-24 00:37:31,696 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 00:37:31,696 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 00:37:31,696 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 00:37:31,696 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 00:39:24,988 - root - INFO - ********* Testing phone Field ***********
+2021-05-24 00:39:24,988 - root - INFO - ********* Testing phone Field ***********
+2021-05-24 00:39:24,989 - root - INFO - ********* Testing email Field ***********
+2021-05-24 00:39:24,989 - root - INFO - ********* Testing email Field ***********
+2021-05-24 00:39:24,989 - root - INFO - ********* Testing email Field ***********
+2021-05-24 00:39:24,989 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 00:39:24,989 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 00:39:24,989 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 00:39:24,989 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 00:40:18,010 - root - INFO - ********* Testing phone Field ***********
+2021-05-24 00:40:18,010 - root - INFO - ********* Testing phone Field ***********
+2021-05-24 00:40:18,011 - root - INFO - ********* Testing email Field ***********
+2021-05-24 00:40:18,011 - root - INFO - ********* Testing email Field ***********
+2021-05-24 00:40:18,011 - root - INFO - ********* Testing email Field ***********
+2021-05-24 00:40:18,011 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 00:40:18,011 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 00:40:18,011 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 00:40:18,011 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 00:40:43,726 - root - INFO - ********* Testing phone Field ***********
+2021-05-24 00:40:43,726 - root - INFO - ********* Testing phone Field ***********
+2021-05-24 00:40:43,727 - root - INFO - ********* Testing email Field ***********
+2021-05-24 00:40:43,727 - root - INFO - ********* Testing email Field ***********
+2021-05-24 00:40:43,727 - root - INFO - ********* Testing email Field ***********
+2021-05-24 00:40:43,727 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 00:40:43,727 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 00:40:43,727 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 00:40:43,727 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 00:41:13,234 - root - INFO - ********* Testing phone Field ***********
+2021-05-24 00:41:13,234 - root - INFO - ********* Testing phone Field ***********
+2021-05-24 00:41:13,235 - root - INFO - ********* Testing email Field ***********
+2021-05-24 00:41:13,235 - root - INFO - ********* Testing email Field ***********
+2021-05-24 00:41:13,235 - root - INFO - ********* Testing email Field ***********
+2021-05-24 00:41:13,235 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 00:41:13,235 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 00:41:13,235 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 00:41:13,235 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 00:41:51,089 - root - INFO - ********* Testing phone Field ***********
+2021-05-24 00:41:51,089 - root - INFO - ********* Testing phone Field ***********
+2021-05-24 00:41:51,089 - root - INFO - ********* Testing email Field ***********
+2021-05-24 00:41:51,089 - root - INFO - ********* Testing email Field ***********
+2021-05-24 00:41:51,089 - root - INFO - ********* Testing email Field ***********
+2021-05-24 00:41:51,089 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 00:41:51,089 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 00:41:51,089 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 00:41:51,089 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 00:42:22,328 - root - INFO - ********* Testing phone Field ***********
+2021-05-24 00:42:22,328 - root - INFO - ********* Testing phone Field ***********
+2021-05-24 00:42:22,329 - root - INFO - ********* Testing email Field ***********
+2021-05-24 00:42:22,329 - root - INFO - ********* Testing email Field ***********
+2021-05-24 00:42:22,329 - root - INFO - ********* Testing email Field ***********
+2021-05-24 00:42:22,329 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 00:42:22,329 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 00:42:22,329 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 00:42:22,329 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 00:45:34,950 - root - INFO - ********* Testing phone Field ***********
+2021-05-24 00:45:34,950 - root - INFO - ********* Testing phone Field ***********
+2021-05-24 00:45:34,951 - root - INFO - ********* Testing email Field ***********
+2021-05-24 00:45:34,951 - root - INFO - ********* Testing email Field ***********
+2021-05-24 00:45:34,951 - root - INFO - ********* Testing email Field ***********
+2021-05-24 00:45:34,951 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 00:45:34,951 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 00:45:34,951 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 00:45:34,951 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 00:46:39,326 - root - INFO - ********* Testing phone Field ***********
+2021-05-24 00:46:39,326 - root - INFO - ********* Testing phone Field ***********
+2021-05-24 00:46:39,327 - root - INFO - ********* Testing email Field ***********
+2021-05-24 00:46:39,327 - root - INFO - ********* Testing email Field ***********
+2021-05-24 00:46:39,327 - root - INFO - ********* Testing email Field ***********
+2021-05-24 00:46:39,327 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 00:46:39,327 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 00:46:39,327 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 00:46:39,327 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 00:49:17,393 - root - INFO - ********* Testing phone Field ***********
+2021-05-24 00:49:17,393 - root - INFO - ********* Testing phone Field ***********
+2021-05-24 00:49:17,393 - root - INFO - ********* Testing email Field ***********
+2021-05-24 00:49:17,393 - root - INFO - ********* Testing email Field ***********
+2021-05-24 00:49:17,393 - root - INFO - ********* Testing email Field ***********
+2021-05-24 00:49:17,393 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 00:49:17,393 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 00:49:17,393 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 00:49:17,393 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 00:50:32,193 - root - INFO - ********* Testing phone Field ***********
+2021-05-24 00:50:32,193 - root - INFO - ********* Testing phone Field ***********
+2021-05-24 00:50:32,194 - root - INFO - ********* Testing email Field ***********
+2021-05-24 00:50:32,194 - root - INFO - ********* Testing email Field ***********
+2021-05-24 00:50:32,194 - root - INFO - ********* Testing email Field ***********
+2021-05-24 00:50:32,194 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 00:50:32,194 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 00:50:32,194 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 00:50:32,194 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 00:52:25,569 - root - INFO - ********* Testing phone Field ***********
+2021-05-24 00:52:25,569 - root - INFO - ********* Testing phone Field ***********
+2021-05-24 00:52:25,570 - root - INFO - ********* Testing email Field ***********
+2021-05-24 00:52:25,570 - root - INFO - ********* Testing email Field ***********
+2021-05-24 00:52:25,570 - root - INFO - ********* Testing email Field ***********
+2021-05-24 00:52:25,571 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 00:52:25,571 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 00:52:25,571 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 00:52:25,571 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 00:55:34,535 - root - INFO - ********* Testing phone Field ***********
+2021-05-24 00:55:34,535 - root - INFO - ********* Testing phone Field ***********
+2021-05-24 00:55:34,535 - root - INFO - ********* Testing email Field ***********
+2021-05-24 00:55:34,535 - root - INFO - ********* Testing email Field ***********
+2021-05-24 00:55:34,535 - root - INFO - ********* Testing email Field ***********
+2021-05-24 00:55:34,535 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 00:55:34,535 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 00:55:34,535 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 00:55:34,535 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 01:02:27,400 - root - INFO - ********* Testing phone Field ***********
+2021-05-24 01:02:27,400 - root - INFO - ********* Testing phone Field ***********
+2021-05-24 01:02:27,401 - root - INFO - ********* Testing email Field ***********
+2021-05-24 01:02:27,401 - root - INFO - ********* Testing email Field ***********
+2021-05-24 01:02:27,401 - root - INFO - ********* Testing email Field ***********
+2021-05-24 01:02:27,401 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 01:02:27,401 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 01:02:27,401 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 01:02:27,401 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 01:05:16,969 - root - INFO - ********* Testing phone Field ***********
+2021-05-24 01:05:16,969 - root - INFO - ********* Testing phone Field ***********
+2021-05-24 01:05:16,969 - root - INFO - ********* Testing email Field ***********
+2021-05-24 01:05:16,969 - root - INFO - ********* Testing email Field ***********
+2021-05-24 01:05:16,969 - root - INFO - ********* Testing email Field ***********
+2021-05-24 01:05:16,970 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 01:05:16,970 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 01:05:16,970 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 01:05:16,970 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 01:06:18,390 - root - INFO - ********* Testing phone Field ***********
+2021-05-24 01:06:18,390 - root - INFO - ********* Testing phone Field ***********
+2021-05-24 01:06:18,390 - root - INFO - ********* Testing email Field ***********
+2021-05-24 01:06:18,390 - root - INFO - ********* Testing email Field ***********
+2021-05-24 01:06:18,390 - root - INFO - ********* Testing email Field ***********
+2021-05-24 01:06:18,391 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 01:06:18,391 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 01:06:18,391 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 01:06:18,391 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 01:18:53,308 - root - INFO - ********* Testing phone Field ***********
+2021-05-24 01:18:53,308 - root - INFO - ********* Testing phone Field ***********
+2021-05-24 01:18:53,309 - root - INFO - ********* Testing email Field ***********
+2021-05-24 01:18:53,309 - root - INFO - ********* Testing email Field ***********
+2021-05-24 01:18:53,309 - root - INFO - ********* Testing email Field ***********
+2021-05-24 01:18:53,309 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 01:18:53,309 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 01:18:53,309 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 01:18:53,309 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 01:20:09,289 - root - INFO - ********* Testing phone Field ***********
+2021-05-24 01:20:09,289 - root - INFO - ********* Testing phone Field ***********
+2021-05-24 01:20:09,290 - root - INFO - ********* Testing email Field ***********
+2021-05-24 01:20:09,290 - root - INFO - ********* Testing email Field ***********
+2021-05-24 01:20:09,290 - root - INFO - ********* Testing email Field ***********
+2021-05-24 01:20:09,291 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 01:20:09,291 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 01:20:09,291 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 01:20:09,291 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 01:24:22,581 - root - INFO - ********* Testing phone Field ***********
+2021-05-24 01:24:22,581 - root - INFO - ********* Testing phone Field ***********
+2021-05-24 01:24:22,581 - root - INFO - ********* Testing email Field ***********
+2021-05-24 01:24:22,581 - root - INFO - ********* Testing email Field ***********
+2021-05-24 01:24:22,581 - root - INFO - ********* Testing email Field ***********
+2021-05-24 01:24:22,581 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 01:24:22,581 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 01:24:22,581 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 01:24:22,581 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 01:25:01,300 - root - INFO - ********* Testing phone Field ***********
+2021-05-24 01:25:01,300 - root - INFO - ********* Testing phone Field ***********
+2021-05-24 01:25:01,300 - root - INFO - ********* Testing email Field ***********
+2021-05-24 01:25:01,300 - root - INFO - ********* Testing email Field ***********
+2021-05-24 01:25:01,300 - root - INFO - ********* Testing email Field ***********
+2021-05-24 01:25:01,300 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 01:25:01,300 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 01:25:01,300 - root - INFO - ********* Testing Gender Radio buttons ***********
+2021-05-24 01:25:01,300 - root - INFO - ********* Testing Gender Radio buttons ***********

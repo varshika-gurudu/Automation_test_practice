@@ -6,8 +6,8 @@ class sign_up:
     frame1 = 'frame-one1434677811'
     FirstName_Input = 'RESULT_TextField-1'
 
-    def __init__(self, driver):
-        self.driver = driver
+    '''def __init__(self, driver):
+        self.driver = driver'''
 
     def set_cookie(self):
         self.cookie_element = self.driver.find_element_by_xpath(self.cookie_element_path)
