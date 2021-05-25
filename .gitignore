@@ -2,3 +2,10 @@
 venv/
 ENV/
 .idea
+PageObjects/__pycache__/NameObject.cpython-38.pyc
+TestCases_signup/__pycache__/conftest.cpython-38-pytest-6.2.4.pyc
+TestCases_signup/__pycache__/test_NameField.cpython-38-pytest-6.2.4.pyc
+.ipynb_checkpoints/
+PageObjects/.ipynb_checkpoints/
+TestCases_signup/__pycache__/NewWindows.cpython-38-pytest-6.2.4.pyc
+PageObjects/__pycache__/NewWindowsObject.cpython-38.pyc

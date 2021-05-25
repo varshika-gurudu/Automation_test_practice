@@ -172,7 +172,7 @@ class Test_Phone_Field(check_char):
         self.logger.info('********** phone field is success **********')
         self.driver.close()
 
-class Test_email(check_char):
+class Test_email(sign_up,check_char):
     logger = Log_Generator.loggen()
     base_url = ReadConfig.getApplicationURL()
     logger.info('********* Testing email Field ***********')
@@ -223,26 +223,57 @@ class Test_Gender(sign_up):
         self.set_cookie()
         self.set_frame1()
 
-        MALE_Element = self.driver.find_element_by_xpath('//*[@id="q26"]/table/tbody/tr[1]/td/label')
-        print('element found')
+        self.logger.info('********* Testing Gender Radio buttons ***********')
+
+        self.set_gender_male()
         time.sleep(1)
-        #test_male.location_once_scrolled_into_view
-        actions = ActionChains(self.driver)
-        self.driver.execute_script('arguments[0].scrollIntoView();', MALE_Element)
-        time.sleep(4)
-        print('scrolled')
-        #element = WebDriverWait(self.driver, 5).until(EC.element_to_be_clickable((By.NAME, 'RESULT_RadioButton-7_0')))
-        #actions.move_to_element(element).click().perform()
-        time.sleep(4)
-        print('over')
 
-        MALE_Element.click()
-        time.sleep(5)
-
-        FEMALE_Element = self.driver.find_element_by_xpath('//*[@id="q26"]/table/tbody/tr[2]/td/label')
-        #self.driver.execute_script('arguments[0].scrollIntoView();', FEMALE_Element)
-        FEMALE_Element.click()
+        self.set_gender_female()
         time.sleep(3)
+
+
+    def test_WeekDay(self,setup):
+        self.driver = setup
+        self.driver.get(self.base_url)
+        self.set_cookie()
+        self.set_frame1()
+
+        self.scroll_till_weekday()
+        time.sleep(3)
+        self.set_weekdays()
+
+    def test_BestTime_contact(self,setup):
+        self.driver = setup
+        self.driver.get(self.base_url)
+        self.set_cookie()
+        self.set_frame1()
+
+        self.scroll_till_weekday()
+        self.set_drop_down()
+
+    def test_upload_file(self,setup):
+        self.driver = setup
+        self.driver.get(self.base_url)
+        self.set_cookie()
+        self.set_frame1()
+
+        self.set_upload_file('C:/Users/varsh/Desktop/hi.txt')
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

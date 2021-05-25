@@ -2,6 +2,7 @@ import pytest
 from selenium import webdriver
 import string
 from PageObjects.NameObject import sign_up
+from utilities.Logger import Log_Generator
 
 
 
@@ -9,6 +10,8 @@ from PageObjects.NameObject import sign_up
 @pytest.fixture()
 def setup():
     driver = webdriver.Chrome('C:/Users/varsh/Desktop/TheFirstOne/chromedriver_win32/chromedriver.exe')
+    logger = Log_Generator.loggen()
+    logger.info('******** Launching browser *********')
     print('Launching chrome browser')
     return driver
 
